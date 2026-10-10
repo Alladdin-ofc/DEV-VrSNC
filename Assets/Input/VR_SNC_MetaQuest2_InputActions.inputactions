@@ -1,0 +1,276 @@
+{
+    "name": "VR_SNC_MetaQuest2_InputActions",
+    "maps": [
+        {
+            "name": "BrainControls",
+            "id": "8e6c94c4-b535-4f14-93f4-18fc64212100",
+            "actions": [
+                {
+                    "name": "Right_SelectStructure",
+                    "type": "Button",
+                    "id": "67be76f1-8a4f-4cd4-9f20-73a52b215201",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Right_GrabSelected",
+                    "type": "Button",
+                    "id": "77221117-c6be-43e6-b597-8b13dff9f7d2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Right_BackToParent",
+                    "type": "Button",
+                    "id": "74626893-07bd-4801-b58b-17d0dfc75d10",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Right_EnterSelectedNode",
+                    "type": "Button",
+                    "id": "a67a3d36-01f6-4bea-a49f-7aa9d3eb096e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Right_ManipulateSelected",
+                    "type": "Value",
+                    "id": "597c00c9-d068-42dc-ae3b-d9c9a0b72733",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Right_ToggleExplodedView",
+                    "type": "Button",
+                    "id": "ddcaa39d-5b8b-4ab8-9965-428c61ba6802",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Left_ResetAll",
+                    "type": "Button",
+                    "id": "e4a0c45e-3bc2-4d26-b0f1-3ddae7ac7634",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Left_ClearSelection",
+                    "type": "Button",
+                    "id": "fb943305-411e-49e7-8a45-1fe978ef4a09",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Left_ToggleIsolation",
+                    "type": "Button",
+                    "id": "d19b3dec-ce35-4d9f-90c1-8ad675ad23aa",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Left_ToggleVisibility",
+                    "type": "Button",
+                    "id": "f8026e73-4ce6-43c2-9cc0-8b8c2c29ef5b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Left_NavigatePanel",
+                    "type": "Value",
+                    "id": "a87b9f83-2016-401f-816d-43164915990e",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Left_TogglePanel",
+                    "type": "Button",
+                    "id": "0bef9e22-c1b8-43bd-a928-afc58074373d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "29c3ec89-b1ef-4a3e-8d8d-74f1e1f43c36",
+                    "path": "<XRController>{RightHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right_SelectStructure",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "632c526d-c724-4e2a-835e-5a97fcc07091",
+                    "path": "<XRController>{RightHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right_GrabSelected",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2d85fc71-b5bd-4d9c-ad10-2e2c940f2d21",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right_BackToParent",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3d5e2d19-68d7-4a20-8f51-9cf77f0af4ed",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right_EnterSelectedNode",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cc5c67f1-8385-48ab-b487-62b02c101e82",
+                    "path": "<XRController>{RightHand}/thumbstick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right_ManipulateSelected",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fc273dd3-292d-4501-b944-0e178d6d7cab",
+                    "path": "<XRController>{RightHand}/thumbstickClicked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right_ToggleExplodedView",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "Alternative",
+                    "id": "79ac7aa2-628f-4324-924d-03cb10c7a0c9",
+                    "path": "<XRController>{RightHand}/primary2DAxisClick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right_ToggleExplodedView",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8b2ad536-0c4e-4585-8397-8aa759b29d0a",
+                    "path": "<XRController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left_ResetAll",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "84d99a04-5d31-4121-b789-48180cba2c88",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left_ClearSelection",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f553fd9f-6d78-4e9b-ad46-900fb48da7cd",
+                    "path": "<XRController>{LeftHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left_ToggleIsolation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9bde1b18-1160-4d52-9fd2-9f6a8246777e",
+                    "path": "<XRController>{LeftHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left_ToggleVisibility",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bd105d7f-cf84-43a9-876f-029fe3e9a720",
+                    "path": "<XRController>{LeftHand}/thumbstick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left_NavigatePanel",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ce1135a4-c994-486e-90ec-969e9c1e8e63",
+                    "path": "<XRController>{LeftHand}/thumbstickClicked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left_TogglePanel",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "Alternative",
+                    "id": "d6773439-8d81-4667-a362-9554911ef7ee",
+                    "path": "<XRController>{LeftHand}/primary2DAxisClick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left_TogglePanel",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

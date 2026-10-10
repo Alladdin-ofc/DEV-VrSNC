@@ -1,0 +1,54 @@
+{
+  "consultedOn": "2026-09-06",
+  "sources": [
+    {
+      "id": "BP3D",
+      "title": "BodyParts3D / Anatomography",
+      "role": "Origem dos modelos",
+      "url": "https://lifesciencedb.jp/bp3d/",
+      "note": "Origem confirmada pelo autor do projeto. Os identificadores de cada peça são extraídos do cabeçalho do OBJ local."
+    },
+    {
+      "id": "BP3D-DOC",
+      "title": "BodyParts3D Information",
+      "role": "Identidade e versões",
+      "url": "https://lifesciencedb.jp/bp3d/info_en/index.html",
+      "note": "Distingue conceito FMA, arquivo geométrico e representação BP. A associação extraída não constitui validação anatômica da geometria. Preservar a versão registrada no OBJ."
+    },
+    {
+      "id": "BP3D-PAPER",
+      "title": "Mitsuhashi et al., BodyParts3D (2009)",
+      "role": "Descrição da base",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2686534/",
+      "note": "Nucleic Acids Research 37:D782-D785. DOI 10.1093/nar/gkn613. Referência primária do projeto e de sua associação a conceitos anatômicos."
+    },
+    {
+      "id": "FIPAT-TNA",
+      "title": "FIPAT, Terminologia Neuroanatomica",
+      "role": "Nomenclatura candidata",
+      "url": "https://libraries.dal.ca/Fipat/tna.html",
+      "note": "Referência especializada para termos neuroanatômicos. O cruzamento com os IDs FMA locais e as traduções em português ainda não foi realizado."
+    },
+    {
+      "id": "FIPAT-TA2",
+      "title": "FIPAT, TA2: prefácio e guia",
+      "role": "Critério terminológico",
+      "url": "https://cdn.dal.ca/content/dam/dalhousie/pdf/library/FIPAT/TA2/FIPAT-TA2-Front-Matter.pdf",
+      "note": "Termos oficiais em latim e equivalentes em outras línguas. O nome inglês dos OBJs permanece identificado como inglês; não é convertido em latim por inferência."
+    },
+    {
+      "id": "UTH-CEREB",
+      "title": "Knierim, Neuroscience Online: Cerebellum",
+      "role": "Exemplo de fonte didática",
+      "url": "https://nba.uth.tmc.edu/neuroscience/s3/chapter05.html",
+      "note": "UTHealth Houston, seção 3, capítulo 5, especialmente 5.1. Fonte institucional para o exemplo editorial sobre cerebelo; não sustenta automaticamente as fichas de outras estruturas."
+    },
+    {
+      "id": "BP3D-LIC",
+      "title": "BodyParts3D: licença do conteúdo",
+      "role": "Créditos dos modelos",
+      "url": "https://lifesciencedb.jp/bp3d/info_en/license/index.html",
+      "note": "A página do conteúdo declara CC BY-SA 2.1 Japan e crédito a BodyParts3D/Database Center for Life Science. Registrar separadamente das licenças dos textos consultados."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": "2026-09-07.2",
+  "generatedUtc": "2026-09-09T13:26:24.449Z",
+  "records": 272,
+  "groups": 32,
+  "leaves": 240,
+  "concepts": 216,
+  "sources": 52,
+  "evidenceLinks": 1039,
+  "fullCoverage": true,
+  "uniqueKeys": true,
+  "allDescriptionsPopulated": true,
+  "allDidacticTextsPopulated": true,
+  "allInformationSourcesResolve": true,
+  "allRecordsHaveDescriptionAndDidacticLocators": true,
+  "xlsxRoundtrip": true,
+  "docentApproved": 0,
+  "sourceChecked": 148,
+  "limitedSpecificity": 124,
+  "contentSha256": "ece1f5bb9ab4624717ec99ad87da2865efb699c37fc901ee8ea4b235e86c94a3"
+}

@@ -1,0 +1,3821 @@
+{
+  "records": [
+    {
+      "key": "Sistema_Nervoso_Central",
+      "type": "group",
+      "nameEn": "Central nervous system",
+      "namePt": "Sistema Nervoso Central",
+      "latinName": "Systema nervosum centrale",
+      "scientificDescriptionPt": "O sistema nervoso central é o conjunto formado por encéfalo e medula espinal, no crânio e canal vertebral. Integra processamento sensorial, motor, autonômico e cognitivo em redes distribuídas.",
+      "didacticSummaryPt": "Sistema Nervoso Central: conjunto formado por encéfalo e medula espinal no crânio e canal vertebral. Integra processamento sensorial, motor, autonômico e cognitivo em redes distribuídas.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Systema nervosum centrale",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Inclui encéfalo e medula espinal; o acervo atual não contém folhas da medula espinal.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebelo",
+      "type": "group",
+      "nameEn": "Cerebellum",
+      "namePt": "Cerebelo",
+      "latinName": "Cerebellum",
+      "scientificDescriptionPt": "O cerebelo é uma divisão do rombencéfalo, na fossa craniana posterior. Participa da coordenação, equilíbrio, postura e aprendizagem motora.",
+      "didacticSummaryPt": "Cerebelo: divisão do rombencéfalo na fossa craniana posterior. Participa da coordenação, equilíbrio, postura e aprendizagem motora.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CEREBELLUM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Cerebellum",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CEREBELLUM",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CEREBELLUM",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro",
+      "type": "group",
+      "nameEn": "Cerebrum",
+      "namePt": "Cérebro",
+      "latinName": "Cerebrum",
+      "scientificDescriptionPt": "O cérebro é a porção supratentorial dominante do encéfalo, acima do tronco e cerebelo. Sustenta percepção, ação, cognição, linguagem, emoção e memória.",
+      "didacticSummaryPt": "Cérebro: porção supratentorial dominante do encéfalo acima do tronco e cerebelo. Sustenta percepção, ação, cognição, linguagem, emoção e memória.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Cerebrum",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Diencefalo",
+      "type": "group",
+      "nameEn": "Diencephalon",
+      "namePt": "Diencéfalo",
+      "latinName": "Diencephalon",
+      "scientificDescriptionPt": "O diencéfalo é uma divisão do prosencéfalo, ao redor do terceiro ventrículo. Participa de retransmissão, homeostase e integração autonômica e endócrina.",
+      "didacticSummaryPt": "Diencéfalo: divisão do prosencéfalo ao redor do terceiro ventrículo. Participa de retransmissão, homeostase e integração autonômica e endócrina.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Diencephalon",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Diencefalo/Epitalamo",
+      "type": "group",
+      "nameEn": "Epithalamus",
+      "namePt": "Epitálamo",
+      "latinName": "Epithalamus",
+      "scientificDescriptionPt": "O epitálamo é uma região dorsal do diencéfalo, junto ao teto posterior do terceiro ventrículo. Participa de circuitos habenulares, pineais, límbicos e ritmos biológicos.",
+      "didacticSummaryPt": "Epitálamo: região dorsal do diencéfalo junto ao teto posterior do terceiro ventrículo. Participa de circuitos habenulares, pineais, límbicos e ritmos biológicos.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Epithalamus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Diencefalo/Hipotalamo",
+      "type": "group",
+      "nameEn": "Hypothalamus",
+      "namePt": "Hipotálamo",
+      "latinName": "Hypothalamus",
+      "scientificDescriptionPt": "O hipotálamo é uma região ventral do diencéfalo, inferior ao tálamo. Participa da homeostase e controle autonômico, endócrino e comportamental.",
+      "didacticSummaryPt": "Hipotálamo: região ventral do diencéfalo inferior ao tálamo. Participa da homeostase e controle autonômico, endócrino e comportamental.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Hypothalamus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Diencefalo/Subtalamo",
+      "type": "group",
+      "nameEn": "Subthalamus",
+      "namePt": "Subtálamo",
+      "latinName": "Subthalamus",
+      "scientificDescriptionPt": "O subtálamo é uma região diencefálica de transição, inferior ao tálamo e rostral ao mesencéfalo. Participa de circuitos dos gânglios da base que modulam o movimento.",
+      "didacticSummaryPt": "Subtálamo: região diencefálica de transição inferior ao tálamo e rostral ao mesencéfalo. Participa de circuitos dos gânglios da base que modulam o movimento.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BASAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Subthalamus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Diencefalo/Talamo",
+      "type": "group",
+      "nameEn": "Thalamus",
+      "namePt": "Tálamo",
+      "latinName": "Thalamus",
+      "scientificDescriptionPt": "O tálamo é um complexo nuclear do diencéfalo, bilateral ao terceiro ventrículo. Retransmite e modula informações sensoriais, motoras, associativas e límbicas.",
+      "didacticSummaryPt": "Tálamo: complexo nuclear do diencéfalo bilateral ao terceiro ventrículo. Retransmite e modula informações sensoriais, motoras, associativas e límbicas.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Thalamus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo",
+      "type": "group",
+      "nameEn": "Telencephalon",
+      "namePt": "Telencéfalo",
+      "latinName": "Telencephalon",
+      "scientificDescriptionPt": "O telencéfalo é a divisão rostral do prosencéfalo, formando os hemisférios. Integra percepção, ação, memória, emoção e cognição.",
+      "didacticSummaryPt": "Telencéfalo: divisão rostral do prosencéfalo formando os hemisférios. Integra percepção, ação, memória, emoção e cognição.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Telencephalon",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Comissuras_e_Tratos",
+      "type": "group",
+      "nameEn": "Commissures and tracts",
+      "namePt": "Comissuras e tratos",
+      "latinName": "",
+      "scientificDescriptionPt": "Comissuras e tratos formam sistemas de feixes de substância branca entre regiões corticais e subcorticais. Conduzem sinais por vias comissurais, de projeção e límbicas específicas.",
+      "didacticSummaryPt": "Comissuras e tratos: feixes de substância branca entre regiões corticais e subcorticais. Conduzem sinais por vias comissurais, de projeção e límbicas específicas.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_TRACTS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Commissures and tracts",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_TRACTS",
+          "locator": "Fornix, Corpus Callosum, Anterior Commissure and Optic Fibers",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_TRACTS",
+          "locator": "Fornix, Corpus Callosum, Anterior Commissure and Optic Fibers; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Cortex",
+      "type": "group",
+      "nameEn": "Cerebral cortex",
+      "namePt": "Córtex cerebral",
+      "latinName": "Cortex cerebri",
+      "scientificDescriptionPt": "O córtex cerebral é a camada superficial de substância cinzenta, recobrindo os hemisférios. Participa de processamento sensorial, motor, associativo e cognitivo.",
+      "didacticSummaryPt": "Córtex cerebral: camada superficial de substância cinzenta recobrindo os hemisférios. Participa de processamento sensorial, motor, associativo e cognitivo.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Cortex cerebri",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Cortex/Insula",
+      "type": "group",
+      "nameEn": "Insula",
+      "namePt": "Ínsula",
+      "latinName": "Insula",
+      "scientificDescriptionPt": "A ínsula é uma região cortical profunda, no fundo do sulco lateral. Participa de integração interoceptiva, gustatória, autonômica e socioemocional.",
+      "didacticSummaryPt": "Ínsula: região cortical profunda no fundo do sulco lateral. Participa de integração interoceptiva, gustatória, autonômica e socioemocional.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Insula",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Cortex/Lobo_Frontal",
+      "type": "group",
+      "nameEn": "Frontal lobe",
+      "namePt": "Lobo frontal",
+      "latinName": "Lobus frontalis",
+      "scientificDescriptionPt": "O lobo frontal é uma região anterior do córtex, à frente do sulco central. Participa de ação voluntária, linguagem, planejamento e controle executivo.",
+      "didacticSummaryPt": "Lobo frontal: região anterior do córtex à frente do sulco central. Participa de ação voluntária, linguagem, planejamento e controle executivo.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Lobus frontalis",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Cortex/Lobo_Limbico",
+      "type": "group",
+      "nameEn": "Limbic lobe",
+      "namePt": "Lobo límbico",
+      "latinName": "Lobus limbicus",
+      "scientificDescriptionPt": "O lobo límbico é um anel cortical medial, ao redor do corpo caloso e temporal medial. Participa de memória, motivação, emoção e regulação autonômica.",
+      "didacticSummaryPt": "Lobo límbico: anel cortical medial ao redor do corpo caloso e temporal medial. Participa de memória, motivação, emoção e regulação autonômica.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Lobus limbicus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Cortex/Lobo_Occipital",
+      "type": "group",
+      "nameEn": "Occipital lobe",
+      "namePt": "Lobo occipital",
+      "latinName": "Lobus occipitalis",
+      "scientificDescriptionPt": "O lobo occipital é uma região posterior do córtex, atrás dos limites parieto-occipitais. Participa principalmente do processamento visual primário e associativo.",
+      "didacticSummaryPt": "Lobo occipital: região posterior do córtex atrás dos limites parieto-occipitais. Participa principalmente do processamento visual primário e associativo.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Lobus occipitalis",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Cortex/Lobo_Parietal",
+      "type": "group",
+      "nameEn": "Parietal lobe",
+      "namePt": "Lobo parietal",
+      "latinName": "Lobus parietalis",
+      "scientificDescriptionPt": "O lobo parietal é uma região cortical dorsal posterior, atrás do sulco central. Participa de somatossensação, atenção espacial e integração multissensorial.",
+      "didacticSummaryPt": "Lobo parietal: região cortical dorsal posterior atrás do sulco central. Participa de somatossensação, atenção espacial e integração multissensorial.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Lobus parietalis",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Cortex/Lobo_Temporal",
+      "type": "group",
+      "nameEn": "Temporal lobe",
+      "namePt": "Lobo temporal",
+      "latinName": "Lobus temporalis",
+      "scientificDescriptionPt": "O lobo temporal é uma região cortical inferolateral, abaixo do sulco lateral. Participa de audição, reconhecimento, linguagem, memória e afeto.",
+      "didacticSummaryPt": "Lobo temporal: região cortical inferolateral abaixo do sulco lateral. Participa de audição, reconhecimento, linguagem, memória e afeto.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CNS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Lobus temporalis",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CNS",
+          "locator": "Introduction; Issues of Concern: forebrain, midbrain and hindbrain divisions; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Formacao_Hipocampal",
+      "type": "group",
+      "nameEn": "Hippocampal formation",
+      "namePt": "Formação hipocampal",
+      "latinName": "Formatio hippocampi",
+      "scientificDescriptionPt": "A formação hipocampal é um conjunto alocortical, no lobo temporal medial. Participa da memória declarativa e navegação espacial.",
+      "didacticSummaryPt": "Formação hipocampal: conjunto alocortical no lobo temporal medial. Participa da memória declarativa e navegação espacial.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Formatio hippocampi",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Ganglios_da_Base",
+      "type": "group",
+      "nameEn": "Basal ganglia",
+      "namePt": "Gânglios da base",
+      "latinName": "Nuclei basales",
+      "scientificDescriptionPt": "Os gânglios da base são um conjunto de núcleos subcorticais profundos nos hemisférios. Participam da seleção de ações, do movimento, dos hábitos e de circuitos associativos.",
+      "didacticSummaryPt": "Gânglios da base: conjunto de núcleos subcorticais profundos nos hemisférios. Participam da seleção de ações, do movimento, dos hábitos e de circuitos associativos.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BASAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Nuclei basales",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Prosencefalo_Basal",
+      "type": "group",
+      "nameEn": "Basal forebrain",
+      "namePt": "Prosencéfalo basal",
+      "latinName": "",
+      "scientificDescriptionPt": "O prosencéfalo basal é uma região heterogênea ventral do prosencéfalo, sob a comissura anterior. Contém sistemas que participam de atenção, memória, vigília e modulação cortical.",
+      "didacticSummaryPt": "Prosencéfalo basal: região heterogênea ventral do prosencéfalo sob a comissura anterior. Contém sistemas que participam de atenção, memória, vigília e modulação cortical.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_DIAGONAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Basal forebrain",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_DIAGONAL",
+          "locator": "Abstract; Basal Forebrain Cholinergic Neurons and Their Projections",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_DIAGONAL",
+          "locator": "Abstract; Basal Forebrain Cholinergic Neurons and Their Projections; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Sistema_Limbico",
+      "type": "group",
+      "nameEn": "Limbic system",
+      "namePt": "Sistema límbico",
+      "latinName": "",
+      "scientificDescriptionPt": "O sistema límbico é um agrupamento funcional histórico, nas faces medial e basal do prosencéfalo. Participa de memória, motivação, emoção e respostas autonômicas.",
+      "didacticSummaryPt": "Sistema límbico: agrupamento funcional histórico nas faces medial e basal do prosencéfalo. Participa de memória, motivação, emoção e respostas autonômicas.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Limbic system",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Categoria histórica com limites variáveis entre autores; não tratada como sistema funcional fechado.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Cerebro/Telencefalo/Sistema_Olfatorio",
+      "type": "group",
+      "nameEn": "Olfactory system",
+      "namePt": "Sistema olfatório",
+      "latinName": "Systema olfactorium",
+      "scientificDescriptionPt": "O sistema olfatório é um conjunto de vias do olfato, da mucosa às áreas basais telencefálicas. Conduz e distribui informação odorante a áreas olfatórias, septais e límbicas.",
+      "didacticSummaryPt": "Sistema olfatório: conjunto de vias do olfato da mucosa às áreas basais telencefálicas. Conduz e distribui informação odorante a áreas olfatórias, septais e límbicas.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_OLFACTORY"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Systema olfactorium",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Sistema_Ventricular",
+      "type": "group",
+      "nameEn": "Ventricular system",
+      "namePt": "Sistema ventricular",
+      "latinName": "Systema ventriculare",
+      "scientificDescriptionPt": "O sistema ventricular é uma série contínua de cavidades com LCR, no centro do encéfalo. Participa da produção, circulação e contenção do líquido cerebrospinal.",
+      "didacticSummaryPt": "Sistema ventricular: série contínua de cavidades com LCR no centro do encéfalo. Participa da produção, circulação e contenção do líquido cerebrospinal.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_VENT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Systema ventriculare",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Sistema_Ventricular/Aqueduto_Cerebral",
+      "type": "group",
+      "nameEn": "Cerebral aqueduct",
+      "namePt": "Aqueduto cerebral",
+      "latinName": "Aqueductus mesencephali",
+      "scientificDescriptionPt": "O aqueduto cerebral é um canal estreito do sistema ventricular, atravessando o mesencéfalo. Conduz LCR do terceiro ao quarto ventrículo.",
+      "didacticSummaryPt": "Aqueduto cerebral: canal estreito do sistema ventricular atravessando o mesencéfalo. Conduz LCR do terceiro ao quarto ventrículo.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_VENT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Aqueductus mesencephali",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Sistema_Ventricular/Plexo_Coroide",
+      "type": "group",
+      "nameEn": "Choroid plexus",
+      "namePt": "Plexo coroide",
+      "latinName": "Plexus choroideus",
+      "scientificDescriptionPt": "O plexo coroide é um tecido epitelial vascularizado, projetado nas cavidades ventriculares. Participa da secreção do LCR e da barreira sangue-LCR.",
+      "didacticSummaryPt": "Plexo coroide: tecido epitelial vascularizado projetado nas cavidades ventriculares. Participa da secreção do LCR e da barreira sangue-LCR.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CHOROID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Plexus choroideus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CHOROID",
+          "locator": "Introduction; Structure and Function: CSF Production and Blood-CSF Barrier",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CHOROID",
+          "locator": "Introduction; Structure and Function: CSF Production and Blood-CSF Barrier; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Sistema_Ventricular/Quarto_Ventriculo",
+      "type": "group",
+      "nameEn": "Fourth ventricle",
+      "namePt": "Quarto ventrículo",
+      "latinName": "Ventriculus quartus",
+      "scientificDescriptionPt": "O quarto ventrículo é uma cavidade do rombencéfalo, entre tronco e cerebelo. Recebe LCR do aqueduto e o distribui ao canal central e espaço subaracnóideo.",
+      "didacticSummaryPt": "Quarto ventrículo: cavidade do rombencéfalo entre tronco e cerebelo. Recebe LCR do aqueduto e o distribui ao canal central e espaço subaracnóideo.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_VENT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Ventriculus quartus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Sistema_Ventricular/Terceiro_Ventriculo",
+      "type": "group",
+      "nameEn": "Third ventricle",
+      "namePt": "Terceiro ventrículo",
+      "latinName": "Ventriculus tertius",
+      "scientificDescriptionPt": "O terceiro ventrículo é uma cavidade mediana do diencéfalo, entre os tálamos. Recebe LCR dos ventrículos laterais e o conduz ao aqueduto.",
+      "didacticSummaryPt": "Terceiro ventrículo: cavidade mediana do diencéfalo entre os tálamos. Recebe LCR dos ventrículos laterais e o conduz ao aqueduto.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_VENT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Ventriculus tertius",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Sistema_Ventricular/Ventriculos_Laterais",
+      "type": "group",
+      "nameEn": "Lateral ventricles",
+      "namePt": "Ventrículos laterais",
+      "latinName": "Ventriculi laterales",
+      "scientificDescriptionPt": "Os ventrículos laterais são um par de cavidades telencefálicas, uma em cada hemisfério. Contêm LCR e comunicam-se com o terceiro ventrículo.",
+      "didacticSummaryPt": "Ventrículos laterais: par de cavidades telencefálicas, uma em cada hemisfério. Contêm LCR e comunicam-se com o terceiro ventrículo.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_VENT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Ventriculi laterales",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Tronco_Encefalico",
+      "type": "group",
+      "nameEn": "Brainstem",
+      "namePt": "Tronco encefálico",
+      "latinName": "Truncus encephali",
+      "scientificDescriptionPt": "O tronco encefálico é a haste neural entre prosencéfalo e medula, anterior ao cerebelo. Contém vias, núcleos cranianos e centros sensório-motores e autonômicos.",
+      "didacticSummaryPt": "Tronco encefálico: haste neural entre prosencéfalo e medula anterior ao cerebelo. Contém vias, núcleos cranianos e centros sensório-motores e autonômicos.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BRAINSTEM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Truncus encephali",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Tronco_Encefalico/Bulbo_Medula_Oblonga",
+      "type": "group",
+      "nameEn": "Medulla oblongata",
+      "namePt": "Bulbo ou medula oblonga",
+      "latinName": "Medulla oblongata",
+      "scientificDescriptionPt": "O bulbo, ou medula oblonga, é a porção caudal do tronco, entre ponte e medula espinal. Participa de funções autonômicas vitais e reflexos bulbares.",
+      "didacticSummaryPt": "Bulbo ou medula oblonga: porção caudal do tronco entre ponte e medula espinal. Participa de funções autonômicas vitais e reflexos bulbares.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BRAINSTEM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Medulla oblongata",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Tronco_Encefalico/Mesencefalo",
+      "type": "group",
+      "nameEn": "Midbrain",
+      "namePt": "Mesencéfalo",
+      "latinName": "Mesencephalon",
+      "scientificDescriptionPt": "O mesencéfalo é a porção rostral do tronco, entre diencéfalo e ponte. Participa de vias motoras, orientação visual e auditiva e vigília.",
+      "didacticSummaryPt": "Mesencéfalo: porção rostral do tronco entre diencéfalo e ponte. Participa de vias motoras, orientação visual e auditiva e vigília.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_MID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Mesencephalon",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "Sistema_Nervoso_Central/Tronco_Encefalico/Ponte",
+      "type": "group",
+      "nameEn": "Pons",
+      "namePt": "Ponte",
+      "latinName": "Pons",
+      "scientificDescriptionPt": "A ponte é a porção média do tronco, entre mesencéfalo e medula. Participa da comunicação cortico-ponto-cerebelar, sensorial e motora.",
+      "didacticSummaryPt": "Ponte: porção média do tronco entre mesencéfalo e medula. Participa da comunicação cortico-ponto-cerebelar, sensorial e motora.",
+      "nomenclatureSourceIds": [
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_PONS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Pons",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_PONS",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_PONS",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Grupo de navegação da cena; não equivale automaticamente a uma relação FMA.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "6540d50c0cc4cdd43b0d7eec9a473131|FJ3834|BP37207|FMA67944",
+      "type": "structure",
+      "nameEn": "Cerebellum",
+      "namePt": "Cerebelo",
+      "latinName": "Cerebellum",
+      "scientificDescriptionPt": "O cerebelo situa-se na fossa craniana posterior, atrás da ponte, da medula oblonga e do quarto ventrículo. Suas redes participam do ajuste temporal e da precisão dos movimentos, do equilíbrio, da postura e da aprendizagem motora, sem iniciar diretamente a contração muscular.",
+      "didacticSummaryPt": "Cerebelo: estrutura posterior ligada ao tronco encefálico. Participa de equilíbrio, postura, coordenação e aprendizagem motora, ajustando movimentos sem iniciá-los diretamente.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CEREBELLUM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3834; BP37207; FMA67944; cabeçalho “Cerebellum”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Cerebellum",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CEREBELLUM",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CEREBELLUM",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Cabeçalho OBJ/FMA não lateralizado; left/right existe apenas na cena.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "b0609a622e2167e4ab8f25666844de9b|FJ3876|BP37207|FMA67944",
+      "type": "structure",
+      "nameEn": "Cerebellum",
+      "namePt": "Cerebelo",
+      "latinName": "Cerebellum",
+      "scientificDescriptionPt": "O cerebelo situa-se na fossa craniana posterior, atrás da ponte, da medula oblonga e do quarto ventrículo. Suas redes participam do ajuste temporal e da precisão dos movimentos, do equilíbrio, da postura e da aprendizagem motora, sem iniciar diretamente a contração muscular.",
+      "didacticSummaryPt": "Cerebelo: estrutura posterior ligada ao tronco encefálico. Participa de equilíbrio, postura, coordenação e aprendizagem motora, ajustando movimentos sem iniciá-los diretamente.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CEREBELLUM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3876; BP37207; FMA67944; cabeçalho “Cerebellum”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Cerebellum",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CEREBELLUM",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CEREBELLUM",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Cabeçalho OBJ/FMA não lateralizado; left/right existe apenas na cena.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "ed831086735b5914a8e69a1af9ad33e2|FJ3792|BP33376|FMA61961",
+      "type": "structure",
+      "nameEn": "Anterior commissure",
+      "namePt": "Comissura anterior",
+      "latinName": "Commissura anterior",
+      "scientificDescriptionPt": "A comissura anterior é um feixe de substância branca que cruza a linha média abaixo do fórnix e do globo pálido. Interliga sobretudo regiões temporais e olfatórias, participando da comunicação inter-hemisférica em paralelo, mas não de modo equivalente, ao corpo caloso.",
+      "didacticSummaryPt": "Comissura anterior: feixe que atravessa a linha média abaixo dos núcleos basais. Participa da comunicação entre áreas temporais e olfatórias dos dois hemisférios.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_TRACTS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3792; BP33376; FMA61961; cabeçalho “Anterior commissure”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Commissura anterior",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_TRACTS",
+          "locator": "Fornix, Corpus Callosum, Anterior Commissure and Optic Fibers",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_TRACTS",
+          "locator": "Fornix, Corpus Callosum, Anterior Commissure and Optic Fibers; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "08e43df2e39961c478584bc0c2aaf79a|MM169|BP34165|FMA72931",
+      "type": "structure",
+      "nameEn": "Body of left fornix of forebrain",
+      "namePt": "Corpo esquerdo do fórnix do prosencéfalo",
+      "latinName": "",
+      "scientificDescriptionPt": "O corpo esquerdo do fórnix do prosencéfalo é a porção mediana do fórnix, feixe arqueado sob o corpo caloso e junto aos ventrículos laterais. Reúne fibras da formação hipocampal que seguem para colunas e destinos septais, hipotalâmicos e talâmicos, participando de circuitos de memória.",
+      "didacticSummaryPt": "Corpo esquerdo do fórnix do prosencéfalo: segmento central do fórnix sob o corpo caloso. Conduz fibras da formação hipocampal e participa de circuitos de memória e integração límbica.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM169; BP34165; FMA72931; cabeçalho “Body of left fornix of forebrain”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Body of left fornix of forebrain",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "4e6d2939ba3c866498b9d5047a502cc2|MM169M|BP33248|FMA72930",
+      "type": "structure",
+      "nameEn": "Body of right fornix of forebrain",
+      "namePt": "Corpo direito do fórnix do prosencéfalo",
+      "latinName": "",
+      "scientificDescriptionPt": "O corpo direito do fórnix do prosencéfalo é a porção mediana do fórnix, feixe arqueado sob o corpo caloso e junto aos ventrículos laterais. Reúne fibras da formação hipocampal que seguem para colunas e destinos septais, hipotalâmicos e talâmicos, participando de circuitos de memória.",
+      "didacticSummaryPt": "Corpo direito do fórnix do prosencéfalo: segmento central do fórnix sob o corpo caloso. Conduz fibras da formação hipocampal e participa de circuitos de memória e integração límbica.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM169M; BP33248; FMA72930; cabeçalho “Body of right fornix of forebrain”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Body of right fornix of forebrain",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "39da27da0d163e741877092912c02927|FJ3798|BP35453|FMA61970",
+      "type": "structure",
+      "nameEn": "Commissure of fornix of forebrain",
+      "namePt": "Comissura do fórnix do prosencéfalo",
+      "latinName": "",
+      "scientificDescriptionPt": "A comissura do fórnix é um pequeno feixe transversal entre os fórnices, inferior ao esplênio do corpo caloso. Suas fibras cruzam a linha média e conectam formações hipocampais.",
+      "didacticSummaryPt": "Comissura do fórnix: pequeno feixe transversal sob a parte posterior do corpo caloso. Conecta vias hipocampais dos dois lados e participa de comunicação límbica bilateral.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3798; BP35453; FMA61970; cabeçalho “Commissure of fornix of forebrain”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Commissure of fornix of forebrain",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "0e963b0ccf1081a44908da2b017d7714|FJ3799|BP33365|FMA86464",
+      "type": "structure",
+      "nameEn": "Corpus callosum",
+      "namePt": "Corpo caloso",
+      "latinName": "Corpus callosum",
+      "scientificDescriptionPt": "O corpo caloso é a maior comissura de substância branca do encéfalo, arqueada no fundo da fissura longitudinal. Seus axônios conectam áreas corticais dos hemisférios direito e esquerdo, permitindo troca inter-hemisférica de informações sensoriais, motoras e associativas entre regiões homólogas e heterólogas.",
+      "didacticSummaryPt": "Corpo caloso: principal ponte de fibras entre os hemisférios cerebrais. Participa da integração bilateral de informações sensoriais, motoras e cognitivas distribuídas pelo córtex.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CORPUS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3799; BP33365; FMA86464; cabeçalho “Corpus callosum”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Corpus callosum",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CORPUS",
+          "locator": "Introduction",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CORPUS",
+          "locator": "Introduction; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "9ae317ec0fa44a3428912705fdeab2f9|MM167|BP33689|FMA235004",
+      "type": "structure",
+      "nameEn": "Fimbria of left hippocampus",
+      "namePt": "Fímbria do hipocampo esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "A fímbria do hipocampo esquerdo é uma faixa de substância branca na borda medial do hipocampo. Axônios do álveo convergem nela e continuam no fórnix. Ela integra a principal via de saída hipocampal; suas funções devem ser interpretadas no contexto da formação hipocampal.",
+      "didacticSummaryPt": "Fímbria do hipocampo esquerdo: feixe na margem do hipocampo que continua no fórnix. Conduz fibras hipocampais e participa de circuitos de memória e navegação.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM167; BP33689; FMA235004; cabeçalho “Fimbria of left hippocampus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Fimbria of left hippocampus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "7be46a3849150b248a3aced7cb308f4e|MM167M|BP34167|FMA235002",
+      "type": "structure",
+      "nameEn": "Fimbria of right hippocampus",
+      "namePt": "Fímbria do hipocampo direito",
+      "latinName": "",
+      "scientificDescriptionPt": "A fímbria do hipocampo direito é uma faixa de substância branca na borda medial do hipocampo. Axônios do álveo convergem nela e continuam no fórnix. Ela integra a principal via de saída hipocampal; suas funções devem ser interpretadas no contexto da formação hipocampal.",
+      "didacticSummaryPt": "Fímbria do hipocampo direito: feixe na margem do hipocampo que continua no fórnix. Conduz fibras hipocampais e participa de circuitos de memória e navegação.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM167M; BP34167; FMA235002; cabeçalho “Fimbria of right hippocampus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Fimbria of right hippocampus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "e77028ccfc146414aa6a4840780f70a9|MM170|BP37111|FMA72927",
+      "type": "structure",
+      "nameEn": "Left anterior column of fornix",
+      "namePt": "Coluna anterior esquerda do fórnix",
+      "latinName": "",
+      "scientificDescriptionPt": "A coluna anterior esquerda do fórnix é o segmento descendente anterior do fórnix, próximo à linha média e à comissura anterior. Suas fibras seguem por trajetos pré e pós-comissurais rumo a áreas septais, hipotálamo, corpos mamilares e tálamo, participando de circuitos hipocampais de memória.",
+      "didacticSummaryPt": "Coluna anterior esquerda do fórnix: segmento descendente do fórnix perto da comissura anterior. Leva fibras hipocampais a alvos septais e hipotalâmicos, participando de circuitos de memória.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM170; BP37111; FMA72927; cabeçalho “Left anterior column of fornix”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left anterior column of fornix",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "9126ed054afa5d643af845d642724247|FJ3807|BP36507|FMA72907",
+      "type": "structure",
+      "nameEn": "Left internal capsule",
+      "namePt": "Cápsula interna esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "A cápsula interna esquerda é uma faixa compacta entre caudado e tálamo medialmente e núcleo lentiforme lateralmente. Reúne fibras talamocorticais e descendentes corticobulbares, corticospinais e corticopontinas, participando da comunicação do córtex com estruturas profundas, tronco encefálico e medula espinal.",
+      "didacticSummaryPt": "Cápsula interna esquerda: corredor de fibras entre tálamo, caudado e núcleo lentiforme. Conduz sinais sensitivos e motores entre córtex e níveis inferiores do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_INTERNAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3807; BP36507; FMA72907; cabeçalho “Left internal capsule”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left internal capsule",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_INTERNAL",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_INTERNAL",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "85ca34609b2bbfd46b69cfdd6e027e08|MM176|BP33129|FMA72942",
+      "type": "structure",
+      "nameEn": "Left lateral longitudinal stria",
+      "namePt": "Estria longitudinal lateral esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "A estria longitudinal lateral esquerda é um feixe muito delgado no indusium griseum, sobre a face dorsal do corpo caloso. É considerada remanescente supracaloso de vias hipocampais; suas origens, terminações e função humana precisas permanecem incertas.",
+      "didacticSummaryPt": "Estria longitudinal lateral esquerda: pequeno feixe sobre o corpo caloso, embutido no indusium griseum. É remanescente relacionado ao hipocampo; sua função específica humana não está estabelecida.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_LONG"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM176; BP33129; FMA72942; cabeçalho “Left lateral longitudinal stria”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left lateral longitudinal stria",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_LONG",
+          "locator": "discussion of medial/lateral longitudinal striae and uncertainty of precise function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_LONG",
+          "locator": "discussion of medial/lateral longitudinal striae and uncertainty of precise function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade morfológica confirmada; origem, término e função precisos são incertos.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "2b9fca5c91c0e194aaa0d0484faeb356|MM177|BP33150|FMA72944",
+      "type": "structure",
+      "nameEn": "Left medial longitudinal stria",
+      "namePt": "Estria longitudinal medial esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "A estria longitudinal medial esquerda é um feixe muito delgado no indusium griseum, sobre a face dorsal do corpo caloso. É considerada remanescente supracaloso de vias hipocampais; suas origens, terminações e função humana precisas permanecem incertas.",
+      "didacticSummaryPt": "Estria longitudinal medial esquerda: pequeno feixe sobre o corpo caloso, embutido no indusium griseum. É remanescente relacionado ao hipocampo; sua função específica humana não está estabelecida.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_LONG"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM177; BP33150; FMA72944; cabeçalho “Left medial longitudinal stria”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left medial longitudinal stria",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_LONG",
+          "locator": "discussion of medial/lateral longitudinal striae and uncertainty of precise function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_LONG",
+          "locator": "discussion of medial/lateral longitudinal striae and uncertainty of precise function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade morfológica confirmada; origem, término e função precisos são incertos.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "366608f14e9498d498406b23b1f81375|MM168|BP33207|FMA72933",
+      "type": "structure",
+      "nameEn": "Left posterior column of fornix",
+      "namePt": "Coluna posterior esquerda do fórnix",
+      "latinName": "",
+      "scientificDescriptionPt": "A coluna posterior esquerda do fórnix é o trecho posterior do fórnix contínuo entre o corpo do feixe e a fímbria hipocampal. Junto ao tálamo e ao ventrículo lateral, conduz fibras hipocampais; sua função específica não deve ser separada artificialmente do feixe contínuo.",
+      "didacticSummaryPt": "Coluna posterior esquerda do fórnix: trecho posterior do fórnix contínuo com a fímbria. Conduz fibras hipocampais e participa de circuitos de memória, sem função isolada demonstrada.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM168; BP33207; FMA72933; cabeçalho “Left posterior column of fornix”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left posterior column of fornix",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "A fonte descreve o fórnix contínuo; função exclusiva desta subdivisão é limitada.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "42de30a73c8141e4bb988c63df2d432f|FJ3831|BP36885|FMA72940",
+      "type": "structure",
+      "nameEn": "Left stria terminalis",
+      "namePt": "Estria terminal esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "A estria terminal esquerda é um feixe arqueado entre caudado e tálamo que segue até regiões septais e hipotalâmicas. Recebe fibras principalmente da amígdala e participa da transmissão límbica relacionada a respostas autonômicas, endócrinas e motivacionais, sem executar essas respostas isoladamente.",
+      "didacticSummaryPt": "Estria terminal esquerda: via arqueada entre amígdala, septo e hipotálamo. Participa da comunicação límbica que influencia respostas autonômicas, endócrinas e motivacionais.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3831; BP36885; FMA72940; cabeçalho “Left stria terminalis”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left stria terminalis",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "afffca5cd6146e749889ed51f60da291|MM170M|BP37112|FMA72926",
+      "type": "structure",
+      "nameEn": "Right anterior column of fornix",
+      "namePt": "Coluna anterior direita do fórnix",
+      "latinName": "",
+      "scientificDescriptionPt": "A coluna anterior direita do fórnix é o segmento descendente anterior do fórnix, próximo à linha média e à comissura anterior. Suas fibras seguem por trajetos pré e pós-comissurais rumo a áreas septais, hipotálamo, corpos mamilares e tálamo, participando de circuitos hipocampais de memória.",
+      "didacticSummaryPt": "Coluna anterior direita do fórnix: segmento descendente do fórnix perto da comissura anterior. Leva fibras hipocampais a alvos septais e hipotalâmicos, participando de circuitos de memória.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM170M; BP37112; FMA72926; cabeçalho “Right anterior column of fornix”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right anterior column of fornix",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "d01396e4476e4704fa8ab2bc35ae3a9c|FJ3808|BP36506|FMA72906",
+      "type": "structure",
+      "nameEn": "Right internal capsule",
+      "namePt": "Cápsula interna direita",
+      "latinName": "",
+      "scientificDescriptionPt": "A cápsula interna direita é uma faixa compacta entre caudado e tálamo medialmente e núcleo lentiforme lateralmente. Reúne fibras talamocorticais e descendentes corticobulbares, corticospinais e corticopontinas, participando da comunicação do córtex com estruturas profundas, tronco encefálico e medula espinal.",
+      "didacticSummaryPt": "Cápsula interna direita: corredor de fibras entre tálamo, caudado e núcleo lentiforme. Conduz sinais sensitivos e motores entre córtex e níveis inferiores do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_INTERNAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3808; BP36506; FMA72906; cabeçalho “Right internal capsule”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right internal capsule",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_INTERNAL",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_INTERNAL",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "dfa271e7082ae4f408902e5c19f5ef95|MM176M|BP33071|FMA72941",
+      "type": "structure",
+      "nameEn": "Right lateral longitudinal stria",
+      "namePt": "Estria longitudinal lateral direita",
+      "latinName": "",
+      "scientificDescriptionPt": "A estria longitudinal lateral direita é um feixe muito delgado no indusium griseum, sobre a face dorsal do corpo caloso. É considerada remanescente supracaloso de vias hipocampais; suas origens, terminações e função humana precisas permanecem incertas.",
+      "didacticSummaryPt": "Estria longitudinal lateral direita: pequeno feixe sobre o corpo caloso, embutido no indusium griseum. É remanescente relacionado ao hipocampo; sua função específica humana não está estabelecida.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_LONG"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM176M; BP33071; FMA72941; cabeçalho “Right lateral longitudinal stria”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right lateral longitudinal stria",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_LONG",
+          "locator": "discussion of medial/lateral longitudinal striae and uncertainty of precise function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_LONG",
+          "locator": "discussion of medial/lateral longitudinal striae and uncertainty of precise function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade morfológica confirmada; origem, término e função precisos são incertos.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "7cfd95c91e8696d4c8ca4df48b94b3f3|MM177M|BP33069|FMA72943",
+      "type": "structure",
+      "nameEn": "Right medial longitudinal stria",
+      "namePt": "Estria longitudinal medial direita",
+      "latinName": "",
+      "scientificDescriptionPt": "A estria longitudinal medial direita é um feixe muito delgado no indusium griseum, sobre a face dorsal do corpo caloso. É considerada remanescente supracaloso de vias hipocampais; suas origens, terminações e função humana precisas permanecem incertas.",
+      "didacticSummaryPt": "Estria longitudinal medial direita: pequeno feixe sobre o corpo caloso, embutido no indusium griseum. É remanescente relacionado ao hipocampo; sua função específica humana não está estabelecida.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_LONG"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM177M; BP33069; FMA72943; cabeçalho “Right medial longitudinal stria”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right medial longitudinal stria",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_LONG",
+          "locator": "discussion of medial/lateral longitudinal striae and uncertainty of precise function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_LONG",
+          "locator": "discussion of medial/lateral longitudinal striae and uncertainty of precise function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade morfológica confirmada; origem, término e função precisos são incertos.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "eac0ca132a822a24ca5f39b462e3fd9e|MM168M|BP37213|FMA72932",
+      "type": "structure",
+      "nameEn": "Right posterior column of fornix",
+      "namePt": "Coluna posterior direita do fórnix",
+      "latinName": "",
+      "scientificDescriptionPt": "A coluna posterior direita do fórnix é o trecho posterior do fórnix contínuo entre o corpo do feixe e a fímbria hipocampal. Junto ao tálamo e ao ventrículo lateral, conduz fibras hipocampais; sua função específica não deve ser separada artificialmente do feixe contínuo.",
+      "didacticSummaryPt": "Coluna posterior direita do fórnix: trecho posterior do fórnix contínuo com a fímbria. Conduz fibras hipocampais e participa de circuitos de memória, sem função isolada demonstrada.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM168M; BP37213; FMA72932; cabeçalho “Right posterior column of fornix”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right posterior column of fornix",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "A fonte descreve o fórnix contínuo; função exclusiva desta subdivisão é limitada.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "e58520b345f83414aa9159052b457f10|FJ3872|BP35487|FMA72939",
+      "type": "structure",
+      "nameEn": "Right stria terminalis",
+      "namePt": "Estria terminal direita",
+      "latinName": "",
+      "scientificDescriptionPt": "A estria terminal direita é um feixe arqueado entre caudado e tálamo que segue até regiões septais e hipotalâmicas. Recebe fibras principalmente da amígdala e participa da transmissão límbica relacionada a respostas autonômicas, endócrinas e motivacionais, sem executar essas respostas isoladamente.",
+      "didacticSummaryPt": "Estria terminal direita: via arqueada entre amígdala, septo e hipotálamo. Participa da comunicação límbica que influencia respostas autonômicas, endócrinas e motivacionais.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3872; BP35487; FMA72939; cabeçalho “Right stria terminalis”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right stria terminalis",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "262eb300c54155a41bae85c8b691ac61|MM241|BP33067|FMA72827",
+      "type": "structure",
+      "nameEn": "Left caudate nucleus",
+      "namePt": "Núcleo caudado esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O núcleo caudado esquerdo é uma massa de substância cinzenta em C que acompanha o ventrículo lateral e integra o estriado dorsal. Recebe entradas corticais e participa, com putâmen, pálido, tálamo e substância negra, da seleção de ações, aprendizagem de hábitos e circuitos motores e associativos.",
+      "didacticSummaryPt": "Núcleo caudado esquerdo: núcleo em C junto ao ventrículo lateral e parte do estriado. Participa da seleção de ações, hábitos e circuitos motores e cognitivos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BASAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM241; BP33067; FMA72827; cabeçalho “Left caudate nucleus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left caudate nucleus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "9b38f8e80f9e6fb42b455c8091f31e1f|FJ3814|BP35571|FMA72831",
+      "type": "structure",
+      "nameEn": "Left globus pallidus",
+      "namePt": "Globo pálido esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O globo pálido esquerdo é a porção medial do núcleo lentiforme, ao lado do putâmen e lateral à cápsula interna. Seus segmentos recebem sinais estriatais e fornecem saídas dos circuitos dos gânglios da base, participando da modulação do movimento e de circuitos associativos e límbicos.",
+      "didacticSummaryPt": "Globo pálido esquerdo: núcleo pálido medial ao putâmen. Participa das vias de saída dos gânglios da base que modulam movimento, ação e circuitos associativos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BASAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3814; BP35571; FMA72831; cabeçalho “Left globus pallidus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left globus pallidus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "cbc3a495ee0df7c49b91f6b5f66959ba|FJ3829|BP36782|FMA72829",
+      "type": "structure",
+      "nameEn": "Left putamen",
+      "namePt": "Putâmen esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O putâmen esquerdo é a porção lateral do núcleo lentiforme e, com o caudado, compõe o estriado dorsal. Recebe ampla entrada cortical e participa de circuitos com pálido, substância negra e tálamo que selecionam e ajustam ações motoras e hábitos aprendidos.",
+      "didacticSummaryPt": "Putâmen esquerdo: parte lateral do núcleo lentiforme e componente do estriado. Participa da seleção e do ajuste de movimentos e hábitos aprendidos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BASAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3829; BP36782; FMA72829; cabeçalho “Left putamen”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left putamen",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "35590703c6e401248824b9f76689126f|MM241M|BP35798|FMA72826",
+      "type": "structure",
+      "nameEn": "Right caudate nucleus",
+      "namePt": "Núcleo caudado direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O núcleo caudado direito é uma massa de substância cinzenta em C que acompanha o ventrículo lateral e integra o estriado dorsal. Recebe entradas corticais e participa, com putâmen, pálido, tálamo e substância negra, da seleção de ações, aprendizagem de hábitos e circuitos motores e associativos.",
+      "didacticSummaryPt": "Núcleo caudado direito: núcleo em C junto ao ventrículo lateral e parte do estriado. Participa da seleção de ações, hábitos e circuitos motores e cognitivos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BASAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM241M; BP35798; FMA72826; cabeçalho “Right caudate nucleus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right caudate nucleus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "4069b538fc4809d4dac1777911e20691|FJ3857|BP36976|FMA72830",
+      "type": "structure",
+      "nameEn": "Right globus pallidus",
+      "namePt": "Globo pálido direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O globo pálido direito é a porção medial do núcleo lentiforme, ao lado do putâmen e lateral à cápsula interna. Seus segmentos recebem sinais estriatais e fornecem saídas dos circuitos dos gânglios da base, participando da modulação do movimento e de circuitos associativos e límbicos.",
+      "didacticSummaryPt": "Globo pálido direito: núcleo pálido medial ao putâmen. Participa das vias de saída dos gânglios da base que modulam movimento, ação e circuitos associativos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BASAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3857; BP36976; FMA72830; cabeçalho “Right globus pallidus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right globus pallidus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "9f7d38fa2941e034daa8fe08899843c1|FJ3870|BP37053|FMA72828",
+      "type": "structure",
+      "nameEn": "Right putamen",
+      "namePt": "Putâmen direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O putâmen direito é a porção lateral do núcleo lentiforme e, com o caudado, compõe o estriado dorsal. Recebe ampla entrada cortical e participa de circuitos com pálido, substância negra e tálamo que selecionam e ajustam ações motoras e hábitos aprendidos.",
+      "didacticSummaryPt": "Putâmen direito: parte lateral do núcleo lentiforme e componente do estriado. Participa da seleção e do ajuste de movimentos e hábitos aprendidos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BASAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3870; BP37053; FMA72828; cabeçalho “Right putamen”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right putamen",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BASAL",
+          "locator": "Introduction; Structure and Function: striatum and lenticular nucleus; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "445b9eca116df2a48884b6273e2e526d|MM156|BP37113|FMA72956",
+      "type": "structure",
+      "nameEn": "Left diagonal band",
+      "namePt": "Banda diagonal esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "A banda diagonal esquerda situa-se no prosencéfalo basal, entre a região septal e áreas próximas à substância perfurada anterior. Contém fibras e grupos neuronais, incluindo populações colinérgicas cujas porções vertical e horizontal projetam diferencialmente para hipocampo e bulbo olfatório.",
+      "didacticSummaryPt": "Banda diagonal esquerda: estrutura do prosencéfalo basal próxima ao septo. Contém vias e neurônios colinérgicos que participam da modulação do hipocampo e sistema olfatório.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_DIAGONAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM156; BP37113; FMA72956; cabeçalho “Left diagonal band”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left diagonal band",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_DIAGONAL",
+          "locator": "Abstract; Basal Forebrain Cholinergic Neurons and Their Projections",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_DIAGONAL",
+          "locator": "Abstract; Basal Forebrain Cholinergic Neurons and Their Projections; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "bfd863293b6696b4faa82a8f592a8b1a|MM156M|BP34103|FMA72955",
+      "type": "structure",
+      "nameEn": "Right diagonal band",
+      "namePt": "Banda diagonal direita",
+      "latinName": "",
+      "scientificDescriptionPt": "A banda diagonal direita situa-se no prosencéfalo basal, entre a região septal e áreas próximas à substância perfurada anterior. Contém fibras e grupos neuronais, incluindo populações colinérgicas cujas porções vertical e horizontal projetam diferencialmente para hipocampo e bulbo olfatório.",
+      "didacticSummaryPt": "Banda diagonal direita: estrutura do prosencéfalo basal próxima ao septo. Contém vias e neurônios colinérgicos que participam da modulação do hipocampo e sistema olfatório.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_DIAGONAL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM156M; BP34103; FMA72955; cabeçalho “Right diagonal band”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right diagonal band",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_DIAGONAL",
+          "locator": "Abstract; Basal Forebrain Cholinergic Neurons and Their Projections",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_DIAGONAL",
+          "locator": "Abstract; Basal Forebrain Cholinergic Neurons and Their Projections; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "62bb17bfa36e61240b8e5ef61d535d47|FJ3878|BP33625|FMA61842",
+      "type": "structure",
+      "nameEn": "Septum of telencephalon",
+      "namePt": "Septo do telencéfalo",
+      "latinName": "",
+      "scientificDescriptionPt": "O septo do telencéfalo é uma região medial do prosencéfalo basal, rostral e superior à comissura anterior. Abriga núcleos septais conectados ao hipocampo, amígdala, habênula e hipotálamo, participando de circuitos de memória, motivação e regulação autonômica.",
+      "didacticSummaryPt": "Septo do telencéfalo: região medial perto da comissura anterior. Seus núcleos conectam vias hipocampais, amigdalóides, habenulares e hipotalâmicas em circuitos límbicos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_UT_LIMBIC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3878; BP33625; FMA61842; cabeçalho “Septum of telencephalon”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Septum of telencephalon",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_UT_LIMBIC",
+          "locator": "Review: Figure 1, Layers A-B; fornix, stria terminalis and septal nuclei; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "f3db6859f9619734f88f6cb0f7d46312|MM229|BP37110|FMA72936",
+      "type": "structure",
+      "nameEn": "Left lateral olfactory stria",
+      "namePt": "Estria olfatória lateral esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "A estria olfatória lateral esquerda é o ramo predominante formado quando o trato olfatório se divide junto ao trígono. Segue ao lobo temporal e leva projeções do bulbo a áreas olfatórias primárias, participando da percepção e integração de informações sobre odores.",
+      "didacticSummaryPt": "Estria olfatória lateral esquerda: principal ramo do trato olfatório. Conduz sinais do bulbo para áreas olfatórias primárias do lobo temporal e participa do processamento de odores.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_OLFACTORY"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM229; BP37110; FMA72936; cabeçalho “Left lateral olfactory stria”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left lateral olfactory stria",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "8fbed0746fac24b48889c2829e22e6c0|FJ7526|BP36645|FMA223162",
+      "type": "structure",
+      "nameEn": "Left olfactory tract",
+      "namePt": "Trato olfatório esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O trato olfatório esquerdo é um feixe na face inferior frontal que conduz axônios do bulbo ao trígono olfatório. Ali, as fibras distribuem-se principalmente pelas estrias lateral e medial, levando informação odorante a regiões olfatórias, septais e límbicas.",
+      "didacticSummaryPt": "Trato olfatório esquerdo: feixe que leva sinais do bulbo ao trígono olfatório. Ali se divide em estrias que distribuem informação de odores para áreas cerebrais.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_OLFACTORY"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ7526; BP36645; FMA223162; cabeçalho “Left olfactory tract”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left olfactory tract",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "14b2743b8ffcb6d488d19b00293e0324|MM155|BP33303|FMA77627",
+      "type": "structure",
+      "nameEn": "Medial olfactory stria",
+      "namePt": "Estria olfatória medial",
+      "latinName": "Stria olfactoria medialis",
+      "scientificDescriptionPt": "A estria olfatória medial é um ramo do trato olfatório que segue do trígono à área septal e ao núcleo olfatório anterior. Participa de conexões olfatórias ipsilaterais e interbulbares.",
+      "didacticSummaryPt": "Estria olfatória medial: ramo medial do trato próximo à área septal. Participa de conexões olfatórias locais e entre os dois bulbos olfatórios.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_OLFACTORY"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM155; BP33303; FMA77627; cabeçalho “Medial olfactory stria”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Stria olfactoria medialis",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Dois OBJ compartilham BP/FMA não lateralizado; lateralidade existe apenas na cena.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "3b7ef21f4c4df1342b4698c5655567e2|MM155M|BP33303|FMA77627",
+      "type": "structure",
+      "nameEn": "Medial olfactory stria",
+      "namePt": "Estria olfatória medial",
+      "latinName": "Stria olfactoria medialis",
+      "scientificDescriptionPt": "A estria olfatória medial é um ramo do trato olfatório que segue do trígono à área septal e ao núcleo olfatório anterior. Participa de conexões olfatórias ipsilaterais e interbulbares.",
+      "didacticSummaryPt": "Estria olfatória medial: ramo medial do trato próximo à área septal. Participa de conexões olfatórias locais e entre os dois bulbos olfatórios.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_OLFACTORY"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM155M; BP33303; FMA77627; cabeçalho “Medial olfactory stria”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Stria olfactoria medialis",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Dois OBJ compartilham BP/FMA não lateralizado; lateralidade existe apenas na cena. Cena contém “rigth”; exibição corrigida sem alterar a identidade.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "9853ed16e8cbf94479a102829ffefbf0|MM229M|BP34100|FMA72935",
+      "type": "structure",
+      "nameEn": "Right lateral olfactory stria",
+      "namePt": "Estria olfatória lateral direita",
+      "latinName": "",
+      "scientificDescriptionPt": "A estria olfatória lateral direita é o ramo predominante formado quando o trato olfatório se divide junto ao trígono. Segue ao lobo temporal e leva projeções do bulbo a áreas olfatórias primárias, participando da percepção e integração de informações sobre odores.",
+      "didacticSummaryPt": "Estria olfatória lateral direita: principal ramo do trato olfatório. Conduz sinais do bulbo para áreas olfatórias primárias do lobo temporal e participa do processamento de odores.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_OLFACTORY"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM229M; BP34100; FMA72935; cabeçalho “Right lateral olfactory stria”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right lateral olfactory stria",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "15590acc240792546937787f0584cba8|FJ7526M|BP36644|FMA223163",
+      "type": "structure",
+      "nameEn": "Right olfactory tract",
+      "namePt": "Trato olfatório direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O trato olfatório direito é um feixe na face inferior frontal que conduz axônios do bulbo ao trígono olfatório. Ali, as fibras distribuem-se principalmente pelas estrias lateral e medial, levando informação odorante a regiões olfatórias, septais e límbicas.",
+      "didacticSummaryPt": "Trato olfatório direito: feixe que leva sinais do bulbo ao trígono olfatório. Ali se divide em estrias que distribuem informação de odores para áreas cerebrais.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_OLFACTORY"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ7526M; BP36644; FMA223163; cabeçalho “Right olfactory tract”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right olfactory tract",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_OLFACTORY",
+          "locator": "Structure and Function: olfactory tract, trigone, lateral and medial striae; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "820ac8aa362006d4681d985f72fa852b|FJ3795|BP33936|FMA78467",
+      "type": "structure",
+      "nameEn": "Cerebral aqueduct",
+      "namePt": "Aqueduto cerebral",
+      "latinName": "Aqueductus mesencephali",
+      "scientificDescriptionPt": "O aqueduto cerebral é um canal estreito revestido por epêndima que atravessa o mesencéfalo. Conecta o terceiro ao quarto ventrículo e conduz líquido cerebrospinal; por seu calibre reduzido, obstruções podem interromper o fluxo.",
+      "didacticSummaryPt": "Aqueduto cerebral: canal estreito dentro do mesencéfalo. Conduz líquido cerebrospinal do terceiro ao quarto ventrículo e pode ser ponto de obstrução do fluxo.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_VENT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3795; BP33936; FMA78467; cabeçalho “Cerebral aqueduct”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Aqueductus mesencephali",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "d48db186a3b8b894ea773f26e2a7e7ab|FJ3788|BP35489|FMA78469",
+      "type": "structure",
+      "nameEn": "Fourth ventricle",
+      "namePt": "Quarto ventrículo",
+      "latinName": "Ventriculus quartus",
+      "scientificDescriptionPt": "O quarto ventrículo é uma cavidade mediana entre ponte e medula anteriormente e cerebelo posteriormente. Recebe líquido cerebrospinal pelo aqueduto cerebral e comunica-se caudalmente com o canal central e, por suas aberturas, com o espaço subaracnóideo.",
+      "didacticSummaryPt": "Quarto ventrículo: cavidade entre tronco encefálico e cerebelo. Recebe LCR do aqueduto e o encaminha ao canal central e ao espaço subaracnóideo.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_VENT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3788; BP35489; FMA78469; cabeçalho “Fourth ventricle”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Ventriculus quartus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "2158e4a5cc8f5ba4c9d68265f9271c90|MM204|BP33701|FMA78462",
+      "type": "structure",
+      "nameEn": "Choroid plexus of third ventricle",
+      "namePt": "Plexo coroide do terceiro ventrículo",
+      "latinName": "Plexus choroideus ventriculi tertii",
+      "scientificDescriptionPt": "O plexo coroide do terceiro ventrículo é uma dobra vascular recoberta por epitélio especializado que se projeta nessa cavidade diencefálica. Participa da secreção e controle da composição do líquido cerebrospinal e integra a barreira sangue-LCR; não é parede neural do ventrículo.",
+      "didacticSummaryPt": "Plexo coroide do terceiro ventrículo: tecido vascular e epitelial dentro da cavidade. Participa da produção e regulação do LCR e da barreira sangue-LCR.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CHOROID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM204; BP33701; FMA78462; cabeçalho “Choroid plexus of third ventricle”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Plexus choroideus ventriculi tertii",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CHOROID",
+          "locator": "Introduction; Structure and Function: CSF Production and Blood-CSF Barrier",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CHOROID",
+          "locator": "Introduction; Structure and Function: CSF Production and Blood-CSF Barrier; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Dois OBJ compartilham BP/FMA não lateralizado; distinção lateral é apenas de cena.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "95039dddace53304ab0050e9592db019|MM204M|BP33701|FMA78462",
+      "type": "structure",
+      "nameEn": "Choroid plexus of third ventricle",
+      "namePt": "Plexo coroide do terceiro ventrículo",
+      "latinName": "Plexus choroideus ventriculi tertii",
+      "scientificDescriptionPt": "O plexo coroide do terceiro ventrículo é uma dobra vascular recoberta por epitélio especializado que se projeta nessa cavidade diencefálica. Participa da secreção e controle da composição do líquido cerebrospinal e integra a barreira sangue-LCR; não é parede neural do ventrículo.",
+      "didacticSummaryPt": "Plexo coroide do terceiro ventrículo: tecido vascular e epitelial dentro da cavidade. Participa da produção e regulação do LCR e da barreira sangue-LCR.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_CHOROID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM204M; BP33701; FMA78462; cabeçalho “Choroid plexus of third ventricle”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Plexus choroideus ventriculi tertii",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_CHOROID",
+          "locator": "Introduction; Structure and Function: CSF Production and Blood-CSF Barrier",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_CHOROID",
+          "locator": "Introduction; Structure and Function: CSF Production and Blood-CSF Barrier; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Dois OBJ compartilham BP/FMA não lateralizado; distinção lateral é apenas de cena.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "1436c8c0b6432fa488de403e7cc008b6|FJ3787|BP35443|FMA78454",
+      "type": "structure",
+      "nameEn": "Third ventricle",
+      "namePt": "Terceiro ventrículo",
+      "latinName": "Ventriculus tertius",
+      "scientificDescriptionPt": "O terceiro ventrículo é uma cavidade estreita na linha média do diencéfalo, entre estruturas talâmicas e hipotalâmicas. Comunica-se com cada ventrículo lateral pelos forames interventriculares e continua posteriormente no aqueduto cerebral, conduzindo líquido cerebrospinal através do sistema ventricular.",
+      "didacticSummaryPt": "Terceiro ventrículo: espaço mediano do diencéfalo. Recebe LCR dos ventrículos laterais e o envia pelo aqueduto cerebral rumo ao quarto ventrículo.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_VENT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3787; BP35443; FMA78454; cabeçalho “Third ventricle”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Ventriculus tertius",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "97e6c8a7bd30ba1409d6edbbf463a9f8|MM205|BP33970|FMA78450",
+      "type": "structure",
+      "nameEn": "Left lateral ventricle",
+      "namePt": "Ventrículo lateral esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O ventrículo lateral esquerdo é uma cavidade curva no hemisfério correspondente. Seus cornos acompanham os lobos e suas paredes relacionam-se com corpo caloso, caudado, tálamo e septo pelúcido. Contém LCR e comunica-se com o terceiro ventrículo pelo forame interventricular.",
+      "didacticSummaryPt": "Ventrículo lateral esquerdo: cavidade preenchida por LCR dentro do hemisfério. Seus contornos ajudam a localizar corpo caloso, caudado e tálamo; comunica-se com o terceiro ventrículo.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_VENT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM205; BP33970; FMA78450; cabeçalho “Left lateral ventricle”; FMA 3.0 part_of",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left lateral ventricle",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "c454b0983c13b3849bc3856e1e1eaa78|MM205M|BP33961|FMA78449",
+      "type": "structure",
+      "nameEn": "Right lateral ventricle",
+      "namePt": "Ventrículo lateral direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O ventrículo lateral direito é uma cavidade curva no hemisfério correspondente. Seus cornos acompanham os lobos e suas paredes relacionam-se com corpo caloso, caudado, tálamo e septo pelúcido. Contém LCR e comunica-se com o terceiro ventrículo pelo forame interventricular.",
+      "didacticSummaryPt": "Ventrículo lateral direito: cavidade preenchida por LCR dentro do hemisfério. Seus contornos ajudam a localizar corpo caloso, caudado e tálamo; comunica-se com o terceiro ventrículo.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_VENT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "MM205M; BP33961; FMA78449; cabeçalho “Right lateral ventricle”; FMA 3.0 part_of",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right lateral ventricle",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_VENT",
+          "locator": "The Ventricular System; Figure 1.17; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "d091d8d70a99aec428642da5614908eb|FJ3823|BP33849|FMA62004",
+      "type": "structure",
+      "nameEn": "Medulla oblongata",
+      "namePt": "Medula oblonga",
+      "latinName": "Medulla oblongata",
+      "scientificDescriptionPt": "A medula oblonga é a porção caudal do tronco, contínua com a medula espinal no forame magno e com a ponte. Contém tratos, núcleos cranianos e redes que participam de respiração, controle cardiovascular, deglutição e reflexos protetores.",
+      "didacticSummaryPt": "Medula oblonga: parte inferior do tronco entre ponte e medula espinal. Contém vias, núcleos cranianos e redes que participam de funções autonômicas vitais.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BRAINSTEM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3823; BP33849; FMA62004; cabeçalho “Medulla oblongata”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Medulla oblongata",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Cabeçalho OBJ/FMA não lateralizado; left/rigth existe apenas na cena.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "066fd49c8a426c14790c87354768a27a|FJ3877|BP33849|FMA62004",
+      "type": "structure",
+      "nameEn": "Medulla oblongata",
+      "namePt": "Medula oblonga",
+      "latinName": "Medulla oblongata",
+      "scientificDescriptionPt": "A medula oblonga é a porção caudal do tronco, contínua com a medula espinal no forame magno e com a ponte. Contém tratos, núcleos cranianos e redes que participam de respiração, controle cardiovascular, deglutição e reflexos protetores.",
+      "didacticSummaryPt": "Medula oblonga: parte inferior do tronco entre ponte e medula espinal. Contém vias, núcleos cranianos e redes que participam de funções autonômicas vitais.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BRAINSTEM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3877; BP33849; FMA62004; cabeçalho “Medulla oblongata”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Medulla oblongata",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Cabeçalho OBJ/FMA não lateralizado; left/rigth existe apenas na cena.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "0ba2e2ca146eab746a64288a378afb6b|FJ1761|BP37183|FMA73464",
+      "type": "structure",
+      "nameEn": "Brachium of left inferior colliculus",
+      "namePt": "Braço do colículo inferior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O braço do colículo inferior esquerdo é um feixe no mesencéfalo dorsal que conecta colículo inferior e corpo geniculado medial. Conduz parte importante da via auditiva ascendente ao tálamo auditivo.",
+      "didacticSummaryPt": "Braço do colículo inferior esquerdo: feixe entre colículo inferior e corpo geniculado medial. Conduz sinais auditivos ascendentes e participa da via que alcança o tálamo.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_INF_COL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ1761; BP37183; FMA73464; cabeçalho “Brachium of left inferior colliculus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Brachium of left inferior colliculus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_INF_COL",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_INF_COL",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "14e3468c2283a0345917c4153b7c5459|FJ3793|BP33229|FMA73461",
+      "type": "structure",
+      "nameEn": "Brachium of right superior colliculus",
+      "namePt": "Braço do colículo superior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O braço do colículo superior direito é um feixe associado ao colículo superior, no mesencéfalo dorsal, com conexões visuais diencefálicas. Participa da integração usada para orientar olhos, cabeça e atenção. O feixe participa desses circuitos, mas não responde isoladamente pela função visuomotora do colículo.",
+      "didacticSummaryPt": "Braço do colículo superior direito: feixe ligado ao colículo superior no mesencéfalo dorsal. Participa de conexões visuais e circuitos que orientam olhos, cabeça e atenção.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_SUP_COL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3793; BP33229; FMA73461; cabeçalho “Brachium of right superior colliculus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Brachium of right superior colliculus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_SUP_COL",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_SUP_COL",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Lateralidade do nome de cena invertida; registro segue cabeçalho OBJ e FMA canônicos, sem trocar malha.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "d54deb326f4b7e9449d19a4099d48751|FJ1809|BP33232|FMA73463",
+      "type": "structure",
+      "nameEn": "Brachium of right inferior colliculus",
+      "namePt": "Braço do colículo inferior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O braço do colículo inferior direito é um feixe no mesencéfalo dorsal que conecta colículo inferior e corpo geniculado medial. Conduz parte importante da via auditiva ascendente ao tálamo auditivo.",
+      "didacticSummaryPt": "Braço do colículo inferior direito: feixe entre colículo inferior e corpo geniculado medial. Conduz sinais auditivos ascendentes e participa da via que alcança o tálamo.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_INF_COL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ1809; BP33232; FMA73463; cabeçalho “Brachium of right inferior colliculus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Brachium of right inferior colliculus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_INF_COL",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_INF_COL",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "1ca65e22128b2004bb899312010f4d7e|FJ1735|BP37293|FMA73462",
+      "type": "structure",
+      "nameEn": "Brachium of left superior colliculus",
+      "namePt": "Braço do colículo superior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O braço do colículo superior esquerdo é um feixe associado ao colículo superior, no mesencéfalo dorsal, com conexões visuais diencefálicas. Participa da integração usada para orientar olhos, cabeça e atenção. O feixe participa desses circuitos, mas não responde isoladamente pela função visuomotora do colículo.",
+      "didacticSummaryPt": "Braço do colículo superior esquerdo: feixe ligado ao colículo superior no mesencéfalo dorsal. Participa de conexões visuais e circuitos que orientam olhos, cabeça e atenção.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_SUP_COL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ1735; BP37293; FMA73462; cabeçalho “Brachium of left superior colliculus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Brachium of left superior colliculus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_SUP_COL",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_SUP_COL",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Lateralidade do nome de cena invertida; registro segue cabeçalho OBJ e FMA canônicos, sem trocar malha. Cena contém “rigth”; exibição corrigida sem alterar a identidade.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "33f95143f02505445849edd86658bdd3|FJ3827|BP33093|FMA242162",
+      "type": "structure",
+      "nameEn": "Left cerebral crus",
+      "namePt": "Crus cerebral esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O crus cerebral esquerdo forma a porção ventral do pedúnculo cerebral no mesencéfalo. Contém fibras corticospinais, corticobulbares e corticopontinas descendentes que ligam o córtex a tronco, medula e núcleos pontinos; participa da transmissão motora sem gerar o comando cortical.",
+      "didacticSummaryPt": "Crus cerebral esquerdo: grande feixe ventral do mesencéfalo. Conduz fibras motoras descendentes do córtex para tronco encefálico, medula espinal e núcleos pontinos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_MID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3827; BP33093; FMA242162; cabeçalho “Left cerebral crus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left cerebral crus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "1e39fe6defc0c684f8bf3110b68e0227|FJ1762|BP35181|FMA73435",
+      "type": "structure",
+      "nameEn": "Left inferior colliculus",
+      "namePt": "Colículo inferior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O colículo inferior esquerdo é uma elevação pareada do teto caudal do mesencéfalo. Recebe e integra sinais de núcleos auditivos e outras fontes, projetando sobretudo ao corpo geniculado medial; participa de localização sonora e respostas de orientação.",
+      "didacticSummaryPt": "Colículo inferior esquerdo: núcleo do teto caudal do mesencéfalo e estação auditiva. Integra sinais sonoros e participa de localização e respostas de orientação.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_INF_COL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ1762; BP35181; FMA73435; cabeçalho “Left inferior colliculus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left inferior colliculus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_INF_COL",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_INF_COL",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "4f3739ebe07374f4888437af277220a8|FJ7480M|BP32577|FMA73492",
+      "type": "structure",
+      "nameEn": "Left red nucleus",
+      "namePt": "Núcleo rubro esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O núcleo rubro esquerdo é um núcleo do tegmento mesencefálico, próximo à substância negra e ao aqueduto. Mantém conexões com cerebelo, córtex e vias motoras descendentes, participando da coordenação e modulação do movimento; seu papel humano não se reduz ao trato rubroespinal.",
+      "didacticSummaryPt": "Núcleo rubro esquerdo: núcleo motor do tegmento mesencefálico conectado ao cerebelo e córtex. Participa da coordenação e modulação dos movimentos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_MID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ7480M; BP32577; FMA73492; cabeçalho “Left red nucleus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left red nucleus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "112a0520977256646ab556391a88a63e|FJ7481M|BP36509|FMA73540",
+      "type": "structure",
+      "nameEn": "Left substantia nigra",
+      "namePt": "Substância negra esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "A substância negra esquerda é uma faixa nuclear pigmentada do mesencéfalo, posterior ao crus cerebral. A pars compacta fornece dopamina ao estriado e a pars reticulata integra saídas dos gânglios da base; juntas participam da seleção e modulação do movimento e circuitos motivacionais.",
+      "didacticSummaryPt": "Substância negra esquerda: núcleo pigmentado entre tegmento e crus cerebral. Seus setores dopaminérgico e de saída participam dos circuitos dos gânglios da base e movimento.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BRAINSTEM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ7481M; BP36509; FMA73540; cabeçalho “Left substantia nigra”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left substantia nigra",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "1e5917900aebac94c8fa71d7315293cf|FJ3832|BP33747|FMA73423",
+      "type": "structure",
+      "nameEn": "Left superior colliculus",
+      "namePt": "Colículo superior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "O colículo superior esquerdo é uma elevação pareada do teto rostral do mesencéfalo. Suas camadas recebem sinais visuais e multissensoriais e participam da seleção de alvos e orientação coordenada dos olhos e da cabeça para eventos relevantes no espaço.",
+      "didacticSummaryPt": "Colículo superior esquerdo: estrutura em camadas no teto rostral do mesencéfalo. Integra sinais visuais e outros estímulos para orientar atenção, olhos e cabeça.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_SUP_COL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3832; BP33747; FMA73423; cabeçalho “Left superior colliculus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Left superior colliculus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_SUP_COL",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_SUP_COL",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "d5d16f99aa2033842aef223acbbbca9a|FJ3824|BP34150|FMA61993",
+      "type": "structure",
+      "nameEn": "Midbrain",
+      "namePt": "Mesencéfalo",
+      "latinName": "Mesencephalon",
+      "scientificDescriptionPt": "O mesencéfalo é a porção rostral do tronco, entre diencéfalo e ponte e ao redor do aqueduto. Inclui teto, tegmento, substância negra e crura, reunindo vias e núcleos que participam de controle motor, orientação sensorial, vigília e modulação da dor.",
+      "didacticSummaryPt": "Mesencéfalo: parte superior do tronco ao redor do aqueduto. Reúne vias e núcleos que participam de movimento, orientação visual e auditiva e vigília.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_MID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3824; BP34150; FMA61993; cabeçalho “Midbrain”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Mesencephalon",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Cabeçalho OBJ/FMA não lateralizado; duplicação left/right é apenas de cena.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "3c5bc77c8f7f3db4ebcb60aadce1146d|FJ3865|BP34150|FMA61993",
+      "type": "structure",
+      "nameEn": "Midbrain",
+      "namePt": "Mesencéfalo",
+      "latinName": "Mesencephalon",
+      "scientificDescriptionPt": "O mesencéfalo é a porção rostral do tronco, entre diencéfalo e ponte e ao redor do aqueduto. Inclui teto, tegmento, substância negra e crura, reunindo vias e núcleos que participam de controle motor, orientação sensorial, vigília e modulação da dor.",
+      "didacticSummaryPt": "Mesencéfalo: parte superior do tronco ao redor do aqueduto. Reúne vias e núcleos que participam de movimento, orientação visual e auditiva e vigília.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_MID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3865; BP34150; FMA61993; cabeçalho “Midbrain”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Mesencephalon",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Cabeçalho OBJ/FMA não lateralizado; duplicação left/right é apenas de cena.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "4f553e41a0c3d0e4abbb9787d9c0f59e|FJ3868|BP36519|FMA242160",
+      "type": "structure",
+      "nameEn": "Right cerebral crus",
+      "namePt": "Crus cerebral direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O crus cerebral direito forma a porção ventral do pedúnculo cerebral no mesencéfalo. Contém fibras corticospinais, corticobulbares e corticopontinas descendentes que ligam o córtex a tronco, medula e núcleos pontinos; participa da transmissão motora sem gerar o comando cortical.",
+      "didacticSummaryPt": "Crus cerebral direito: grande feixe ventral do mesencéfalo. Conduz fibras motoras descendentes do córtex para tronco encefálico, medula espinal e núcleos pontinos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_MID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3868; BP36519; FMA242160; cabeçalho “Right cerebral crus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right cerebral crus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "0e6ae7e0fc002ce408700b0a27a5ed53|FJ1810|BP36436|FMA73434",
+      "type": "structure",
+      "nameEn": "Right inferior colliculus",
+      "namePt": "Colículo inferior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O colículo inferior direito é uma elevação pareada do teto caudal do mesencéfalo. Recebe e integra sinais de núcleos auditivos e outras fontes, projetando sobretudo ao corpo geniculado medial; participa de localização sonora e respostas de orientação.",
+      "didacticSummaryPt": "Colículo inferior direito: núcleo do teto caudal do mesencéfalo e estação auditiva. Integra sinais sonoros e participa de localização e respostas de orientação.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_INF_COL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ1810; BP36436; FMA73434; cabeçalho “Right inferior colliculus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right inferior colliculus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_INF_COL",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_INF_COL",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "7b1890b569267e7458e06a853e926609|FJ7480|BP33949|FMA73491",
+      "type": "structure",
+      "nameEn": "Right red nucleus",
+      "namePt": "Núcleo rubro direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O núcleo rubro direito é um núcleo do tegmento mesencefálico, próximo à substância negra e ao aqueduto. Mantém conexões com cerebelo, córtex e vias motoras descendentes, participando da coordenação e modulação do movimento; seu papel humano não se reduz ao trato rubroespinal.",
+      "didacticSummaryPt": "Núcleo rubro direito: núcleo motor do tegmento mesencefálico conectado ao cerebelo e córtex. Participa da coordenação e modulação dos movimentos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_MID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ7480; BP33949; FMA73491; cabeçalho “Right red nucleus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right red nucleus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_MID",
+          "locator": "Structure and Function; Ascending and Descending Pathways; Midbrain Tectum; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "018f7b19d9b2a334cbbeb8a584f682d6|FJ7481|BP36510|FMA73539",
+      "type": "structure",
+      "nameEn": "Right substantia nigra",
+      "namePt": "Substância negra direita",
+      "latinName": "",
+      "scientificDescriptionPt": "A substância negra direita é uma faixa nuclear pigmentada do mesencéfalo, posterior ao crus cerebral. A pars compacta fornece dopamina ao estriado e a pars reticulata integra saídas dos gânglios da base; juntas participam da seleção e modulação do movimento e circuitos motivacionais.",
+      "didacticSummaryPt": "Substância negra direita: núcleo pigmentado entre tegmento e crus cerebral. Seus setores dopaminérgico e de saída participam dos circuitos dos gânglios da base e movimento.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_BRAINSTEM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ7481; BP36510; FMA73539; cabeçalho “Right substantia nigra”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right substantia nigra",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_BRAINSTEM",
+          "locator": "Structure and Function: Midbrain, Pons and Medulla Oblongata; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "5f59ee57f2d83a44393323dfd72aa0b9|FJ1826|BP36657|FMA73422",
+      "type": "structure",
+      "nameEn": "Right superior colliculus",
+      "namePt": "Colículo superior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "O colículo superior direito é uma elevação pareada do teto rostral do mesencéfalo. Suas camadas recebem sinais visuais e multissensoriais e participam da seleção de alvos e orientação coordenada dos olhos e da cabeça para eventos relevantes no espaço.",
+      "didacticSummaryPt": "Colículo superior direito: estrutura em camadas no teto rostral do mesencéfalo. Integra sinais visuais e outros estímulos para orientar atenção, olhos e cabeça.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_SUP_COL"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ1826; BP36657; FMA73422; cabeçalho “Right superior colliculus”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Right superior colliculus",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_SUP_COL",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_SUP_COL",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "",
+      "verification": "source_checked"
+    },
+    {
+      "key": "1b490930465703843a61e16ab07d56e9|FJ3828|BP33675|FMA67943",
+      "type": "structure",
+      "nameEn": "Pons",
+      "namePt": "Ponte",
+      "latinName": "Pons",
+      "scientificDescriptionPt": "A ponte é a porção do tronco entre mesencéfalo e medula, anterior ao cerebelo. Sua base contém núcleos pontinos e fibras corticopontinas, corticospinais e pontocerebelares; o tegmento contém vias e núcleos cranianos. Participa de comunicação motora, sensorial e cerebelar.",
+      "didacticSummaryPt": "Ponte: parte média do tronco diante do cerebelo. Contém vias e núcleos que participam da comunicação entre córtex, cerebelo, medula e nervos cranianos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_PONS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3828; BP33675; FMA67943; cabeçalho “Pons”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Pons",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_PONS",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_PONS",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Cabeçalho OBJ/FMA não lateralizado; left/rigth existe apenas na cena.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "f68d8281af8c4be47952cea59b65e94a|FJ3869|BP33675|FMA67943",
+      "type": "structure",
+      "nameEn": "Pons",
+      "namePt": "Ponte",
+      "latinName": "Pons",
+      "scientificDescriptionPt": "A ponte é a porção do tronco entre mesencéfalo e medula, anterior ao cerebelo. Sua base contém núcleos pontinos e fibras corticopontinas, corticospinais e pontocerebelares; o tegmento contém vias e núcleos cranianos. Participa de comunicação motora, sensorial e cerebelar.",
+      "didacticSummaryPt": "Ponte: parte média do tronco diante do cerebelo. Contém vias e núcleos que participam da comunicação entre córtex, cerebelo, medula e nervos cranianos.",
+      "nomenclatureSourceIds": [
+        "FD_BP3D",
+        "FD_TNA"
+      ],
+      "informationSourceIds": [
+        "FD_PONS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "FD_BP3D",
+          "locator": "FJ3869; BP33675; FMA67943; cabeçalho “Pons”; FMA 3.0 is_a",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_TNA",
+          "locator": "Pons",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "FD_PONS",
+          "locator": "Introduction; Structure and Function",
+          "supports": "description"
+        },
+        {
+          "sourceId": "FD_PONS",
+          "locator": "Introduction; Structure and Function; síntese educacional fiel à seção",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Cabeçalho OBJ/FMA não lateralizado; left/rigth existe apenas na cena.",
+      "verification": "limited_specificity"
+    }
+  ],
+  "sources": [
+    {
+      "id": "FD_BP3D",
+      "title": "BodyParts3D tables and information",
+      "authors": "Database Center for Life Science (DBCLS/NBDC)",
+      "year": 2013,
+      "url": "https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Relaciona concept ID FMA, representation ID BP, nome inglês e arquivos FJ; distingue conceito, malha e representação."
+    },
+    {
+      "id": "FD_BP3D_RELEASE3",
+      "title": "BodyParts3D Release Note 3.0",
+      "authors": "Database Center for Life Science (DBCLS)",
+      "year": 2011,
+      "url": "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/20110915/release_3.0_e.html",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Lista Nieuwenhuys, Mai/Paxinos/Voss, Gray, Prometheus, SPL-PNL e Talairach como fontes do refinamento do SNC."
+    },
+    {
+      "id": "FD_BP3D_NAR",
+      "title": "BodyParts3D: 3D structure database for anatomical concepts",
+      "authors": "Mitsuhashi N; Fujieda K; Tamura T; Kawamoto S; Takagi T; Okubo K",
+      "year": 2009,
+      "url": "https://academic.oup.com/nar/article/37/suppl_1/D782/1000752",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Descreve a base TARO, refinamento por atlas/livros/modelos e rotulagem por conceitos FMA."
+    },
+    {
+      "id": "FD_FMA",
+      "title": "A reference ontology for biomedical informatics: the Foundational Model of Anatomy",
+      "authors": "Rosse C; Mejino JLV",
+      "year": 2003,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14759820/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Define a FMA como ontologia estrutural canônica, não como atlas geométrico."
+    },
+    {
+      "id": "FD_FMA_PART",
+      "title": "Representing complexity in part-whole relationships within the FMA",
+      "authors": "Mejino JLV Jr; Agoncillo AV; Rickard KL; Rosse C",
+      "year": 2003,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1480337/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Distingue relações parte-todo regionais e constitucionais."
+    },
+    {
+      "id": "FD_TNA",
+      "title": "Terminologia Neuroanatomica",
+      "authors": "FIPAT",
+      "year": 2017,
+      "url": "https://fipat.library.dal.ca/wp-content/uploads/2017/02/FIPAT-TNA-Front-Matter.pdf",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Fornece termos oficiais latinos e equivalentes ingleses da neuroanatomia."
+    },
+    {
+      "id": "FD_CNS",
+      "title": "Physiology, Brain",
+      "authors": "Maldonado KA; Alsayouri K",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551718/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Resume divisões, localização geral e papéis do cérebro, cerebelo e tronco."
+    },
+    {
+      "id": "FD_CEREBELLUM",
+      "title": "Neuroanatomy, Cerebellum",
+      "authors": "Jimsheleishvili S; Dididze M",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538167/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Localiza o cerebelo e descreve coordenação, equilíbrio e aprendizagem motora."
+    },
+    {
+      "id": "FD_UT_TRACTS",
+      "title": "Neuroanatomy Online: Fornix, Corpus Callosum and Anterior Commissure",
+      "authors": "McGovern Medical School at UTHealth",
+      "year": "s.d.",
+      "url": "https://nba.uth.tmc.edu/neuroanatomy/L10/Lab10p18_index.html",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Identifica fórnix, corpo caloso e comissura anterior, com topografia e conexões."
+    },
+    {
+      "id": "FD_UT_LIMBIC",
+      "title": "Neuroanatomy Online: The Limbic System",
+      "authors": "McGovern Medical School at UTHealth",
+      "year": "s.d.",
+      "url": "https://nba.uth.tmc.edu/neuroanatomy/L11/Lab11p09_index.html",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Segue fórnix e estria terminal e descreve septo, origens e destinos."
+    },
+    {
+      "id": "FD_INTERNAL",
+      "title": "Neuroanatomy, Internal Capsule",
+      "authors": "Emos MC; Khan Suheb MZ; Agarwal S",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK542181/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Descreve limites e feixes ascendentes e descendentes da cápsula interna."
+    },
+    {
+      "id": "FD_LONG",
+      "title": "High-field, High-resolution MR Imaging of the Human Indusium Griseum",
+      "authors": "Jinkins JR",
+      "year": 2000,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7976749/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Localiza estrias longitudinais e declara incertas suas origens, terminações e funções precisas."
+    },
+    {
+      "id": "FD_BASAL",
+      "title": "Neuroanatomy, Basal Ganglia",
+      "authors": "Young CB; Reddy V; Sonne J",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537141/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Descreve caudado, putâmen, pálido e circuitos motores e associativos."
+    },
+    {
+      "id": "FD_DIAGONAL",
+      "title": "Organization of the basal forebrain cholinergic system in the human brain",
+      "authors": "Geula C; Ayala I; Gefen T; Mesulam MM",
+      "year": 2025,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13375150/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Localiza grupos colinérgicos nas porções vertical e horizontal da banda diagonal."
+    },
+    {
+      "id": "FD_OLFACTORY",
+      "title": "Neuroanatomy, Cranial Nerve 1 (Olfactory)",
+      "authors": "Helwany M; Bordoni B",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556051/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Descreve trato olfatório, estrias lateral e medial e suas projeções."
+    },
+    {
+      "id": "FD_VENT",
+      "title": "The Ventricular System",
+      "authors": "Purves D; Augustine GJ; Fitzpatrick D; et al.",
+      "year": 2001,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK11083/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Localiza ventrículos, aqueduto e plexos; descreve continuidade e circulação do LCR."
+    },
+    {
+      "id": "FD_CHOROID",
+      "title": "Neuroanatomy, Choroid Plexus",
+      "authors": "Javed K; Reddy V; Lui F",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538156/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Descreve epitélio vascularizado, produção e regulação do LCR."
+    },
+    {
+      "id": "FD_BRAINSTEM",
+      "title": "Neuroanatomy, Brainstem",
+      "authors": "Basinger H; Hogg JP",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK544297/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Descreve mesencéfalo, ponte, medula, núcleos e tratos."
+    },
+    {
+      "id": "FD_PONS",
+      "title": "Neuroanatomy, Pons",
+      "authors": "Rahman M; Tadi P",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560589/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Localiza a ponte e descreve núcleos e fibras corticopontocerebelares."
+    },
+    {
+      "id": "FD_MID",
+      "title": "Neuroanatomy, Mesencephalon Midbrain",
+      "authors": "Caminero F; Cascella M",
+      "year": 2024,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551509/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Descreve teto, tegmento, crura, aqueduto, rubro e substância negra."
+    },
+    {
+      "id": "FD_INF_COL",
+      "title": "Neuroanatomy, Inferior Colliculus",
+      "authors": "Driscoll ME; Tadi P",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554468/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Localiza o colículo inferior e descreve integração e retransmissão auditiva."
+    },
+    {
+      "id": "FD_SUP_COL",
+      "title": "Neuroanatomy, Superior Colliculus",
+      "authors": "Zubricky RD; Das JM",
+      "year": 2024,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544224/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Localiza o colículo superior e descreve orientação visuomotora."
+    },
+    {
+      "id": "FD_CORPUS",
+      "title": "Neuroanatomy, Corpus Callosum",
+      "authors": "Goldstein A; Covington BP; Mahabadi N; Mesfin FB",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK448209/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Define o corpo caloso como principal feixe comissural inter-hemisférico."
+    }
+  ]
+}

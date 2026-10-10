@@ -1,0 +1,3251 @@
+{
+  "records": [
+    {
+      "key": "bdad6ed94a703e449bda6b6765eca772|MM239|BP36415|FMA72704",
+      "type": "structure",
+      "nameEn": "Left anterior accessory gyrus",
+      "namePt": "giro acessório anterior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro acessório anterior esquerdo é uma estrutura anatômica identificada no modelo e localizada na face anterior da ínsula, profundamente ao opérculo. A literatura reconhece esse marco variável; seu contexto insular participa de integração interoceptiva, autonômica, gustativa, dolorosa e afetiva. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro acessório anterior esquerdo fica na face anterior da ínsula, profundamente ao opérculo. É um marco variável da ínsula anterior e participa do contexto funcional insular, sem função exclusiva demonstrada. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_INSULA"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left anterior accessory gyrus.obj; OBJ File ID MM239, Representation ID BP36415, FMA ID FMA72704, English name 'Left anterior accessory gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; giro acessório e funções gerais da ínsula",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; giro acessório e funções gerais da ínsula",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM239, BP36415, FMA72704). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir área de Brodmann ou função exclusiva ao giro acessório. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "bdde2945b5a51c841ab4614dcafa8fe6|MM240|BP36415|FMA72704",
+      "type": "structure",
+      "nameEn": "Left anterior accessory gyrus",
+      "namePt": "giro acessório anterior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro acessório anterior esquerdo é uma estrutura anatômica identificada no modelo e localizada na face anterior da ínsula, profundamente ao opérculo. A literatura reconhece esse marco variável; seu contexto insular participa de integração interoceptiva, autonômica, gustativa, dolorosa e afetiva. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro acessório anterior esquerdo fica na face anterior da ínsula, profundamente ao opérculo. É um marco variável da ínsula anterior e participa do contexto funcional insular, sem função exclusiva demonstrada. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_INSULA"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left anterior accessory gyrus_1.obj; OBJ File ID MM240, Representation ID BP36415, FMA ID FMA72704, English name 'Left anterior accessory gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; giro acessório e funções gerais da ínsula",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; giro acessório e funções gerais da ínsula",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM240, BP36415, FMA72704). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir área de Brodmann ou função exclusiva ao giro acessório. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "5b447fb4272a3024ca87e72fb8e03805|MM236|BP33786|FMA72725",
+      "type": "structure",
+      "nameEn": "Left first short gyrus of insula",
+      "namePt": "primeiro giro curto da ínsula esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "Primeiro giro curto da ínsula esquerda é uma estrutura anatômica identificada no modelo e localizada na ínsula anterior, no assoalho profundo do sulco lateral. As fontes descrevem três giros curtos, mas o ordinal não permite equivalência com anterior, médio ou posterior; o papel permanece no nível da ínsula. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Primeiro giro curto da ínsula esquerda fica na ínsula anterior, no assoalho profundo do sulco lateral. É uma dobra da ínsula anterior; o ordinal da malha não define sozinho subárea funcional precisa. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_INSULA"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left first short gyrus of insula.obj; OBJ File ID MM236, Representation ID BP33786, FMA ID FMA72725, English name 'Left first short gyrus of insula'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; três giros curtos anteriores",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; três giros curtos anteriores",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM236, BP33786, FMA72725). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Ordinal histórico preservado sem conversão para subgiro moderno.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "129f8d954cfefa4468a85c65924f7181|MM237|BP33785|FMA72730",
+      "type": "structure",
+      "nameEn": "Left intermediate short gyrus of insula",
+      "namePt": "giro curto intermediário da ínsula esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro curto intermediário da ínsula esquerda é uma estrutura anatômica identificada no modelo e localizada na ínsula anterior, no assoalho profundo do sulco lateral. A posição é intermediária entre giros curtos; a região insular integra sinais autonômicos, interoceptivos, gustativos, dolorosos e afetivos, sem função isolada comprovada para esta dobra. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro curto intermediário da ínsula esquerda fica na ínsula anterior, no assoalho profundo do sulco lateral. É uma dobra da ínsula anterior, com papel compreendido no conjunto funcional insular. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_INSULA"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left intermediate short gyrus of insula.obj; OBJ File ID MM237, Representation ID BP33785, FMA ID FMA72730, English name 'Left intermediate short gyrus of insula'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; giros curtos e funções da ínsula",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; giros curtos e funções da ínsula",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM237, BP33785, FMA72730). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. A fonte sustenta a região, não função exclusiva do giro intermediário.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "badab60b19386374e9f64cc749fb1417|MM235|BP33792|FMA72728",
+      "type": "structure",
+      "nameEn": "Left second short gyrus of insula",
+      "namePt": "segundo giro curto da ínsula esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "Segundo giro curto da ínsula esquerda é uma estrutura anatômica identificada no modelo e localizada na ínsula anterior, no assoalho profundo do sulco lateral. As fontes descrevem três giros curtos, mas o ordinal do OBJ não identifica parcela citoarquitetônica; seu papel pertence à integração ampla da ínsula. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Segundo giro curto da ínsula esquerda fica na ínsula anterior, no assoalho profundo do sulco lateral. É uma dobra da ínsula anterior; o ordinal distingue a malha, não uma função cortical exclusiva. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_INSULA"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left second short gyrus of insula.obj; OBJ File ID MM235, Representation ID BP33792, FMA ID FMA72728, English name 'Left second short gyrus of insula'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; três giros curtos anteriores",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; três giros curtos anteriores",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM235, BP33792, FMA72728). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Nenhuma área de Brodmann foi inferida do ordinal.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "bde7155eec386364b804c62f3b23c7d4|MM236M|BP34384|FMA72724",
+      "type": "structure",
+      "nameEn": "Right first short gyrus of insula",
+      "namePt": "primeiro giro curto da ínsula direita",
+      "latinName": "",
+      "scientificDescriptionPt": "Primeiro giro curto da ínsula direita é uma estrutura anatômica identificada no modelo e localizada na ínsula anterior, no assoalho profundo do sulco lateral. As fontes descrevem três giros curtos, mas o ordinal não permite equivalência com anterior, médio ou posterior; o papel permanece no nível da ínsula. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Primeiro giro curto da ínsula direita fica na ínsula anterior, no assoalho profundo do sulco lateral. É uma dobra da ínsula anterior; o ordinal da malha não define sozinho subárea funcional precisa. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_INSULA"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right first short gyrus of insula.obj; OBJ File ID MM236M, Representation ID BP34384, FMA ID FMA72724, English name 'Right first short gyrus of insula'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; três giros curtos anteriores",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; três giros curtos anteriores",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM236M, BP34384, FMA72724). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Ordinal histórico preservado sem conversão para subgiro moderno.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "ca69bb9ed2fd0ec4cb32faedf19873a3|MM237M|BP33784|FMA72729",
+      "type": "structure",
+      "nameEn": "Right intermediate short gyrus of insula",
+      "namePt": "giro curto intermediário da ínsula direita",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro curto intermediário da ínsula direita é uma estrutura anatômica identificada no modelo e localizada na ínsula anterior, no assoalho profundo do sulco lateral. A posição é intermediária entre giros curtos; a região insular integra sinais autonômicos, interoceptivos, gustativos, dolorosos e afetivos, sem função isolada comprovada para esta dobra. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro curto intermediário da ínsula direita fica na ínsula anterior, no assoalho profundo do sulco lateral. É uma dobra da ínsula anterior, com papel compreendido no conjunto funcional insular. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_INSULA"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right intermediate short gyrus of insula.obj; OBJ File ID MM237M, Representation ID BP33784, FMA ID FMA72729, English name 'Right intermediate short gyrus of insula'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; giros curtos e funções da ínsula",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; giros curtos e funções da ínsula",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM237M, BP33784, FMA72729). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. A fonte sustenta a região, não função exclusiva do giro intermediário.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "85841d2040b300c489f809848120ff50|MM235M|BP34429|FMA72726",
+      "type": "structure",
+      "nameEn": "Right second short gyrus of insula",
+      "namePt": "segundo giro curto da ínsula direita",
+      "latinName": "",
+      "scientificDescriptionPt": "Segundo giro curto da ínsula direita é uma estrutura anatômica identificada no modelo e localizada na ínsula anterior, no assoalho profundo do sulco lateral. As fontes descrevem três giros curtos, mas o ordinal do OBJ não identifica parcela citoarquitetônica; seu papel pertence à integração ampla da ínsula. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Segundo giro curto da ínsula direita fica na ínsula anterior, no assoalho profundo do sulco lateral. É uma dobra da ínsula anterior; o ordinal distingue a malha, não uma função cortical exclusiva. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_INSULA"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right second short gyrus of insula.obj; OBJ File ID MM235M, Representation ID BP34429, FMA ID FMA72726, English name 'Right second short gyrus of insula'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; três giros curtos anteriores",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_INSULA",
+          "locator": "Estrutura e função, linhas 56-62; três giros curtos anteriores",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM235M, BP34429, FMA72726). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Nenhuma área de Brodmann foi inferida do ordinal.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "1d35ff3865fbd73478e570a7a5624d1c|FJ7465|BP37135|FMA256200",
+      "type": "structure",
+      "nameEn": "Left anterior orbital gyrus",
+      "namePt": "giro orbital anterior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro orbital anterior esquerdo é uma estrutura anatômica identificada no modelo e localizada na superfície inferior do lobo frontal, rostral ao sulco orbital transverso. O padrão dos sulcos orbitais varia; o território orbitofrontal participa de avaliação de resultados, recompensa, emoção e ajuste de escolhas em redes distribuídas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro orbital anterior esquerdo fica na superfície inferior do lobo frontal, rostral ao sulco orbital transverso. É um marco orbitofrontal variável relacionado a redes de avaliação, emoção e decisão. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left anterior orbital gyrus.obj; OBJ File ID FJ7465, Representation ID BP37135, FMA ID FMA256200, English name 'Left anterior orbital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ7465, BP37135, FMA256200). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O giro não foi tratado como área funcional única.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "2cbd258ed4fb20542977a867af416fda|FJ3801|BP36185|FMA72658",
+      "type": "structure",
+      "nameEn": "Left inferior frontal gyrus",
+      "namePt": "giro frontal inferior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro frontal inferior esquerdo é uma estrutura anatômica identificada no modelo e localizada na porção inferolateral do lobo frontal, acima do sulco lateral. Abrange parcelas heterogêneas de linguagem e controle de respostas; a produção da fala depende do hemisfério dominante e de subdivisões, não do giro inteiro. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro frontal inferior esquerdo fica na porção inferolateral do lobo frontal, acima do sulco lateral. Participa de linguagem e controle de respostas, mas somente parcelas do hemisfério dominante integram classicamente a área de Broca. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left inferior frontal gyrus.obj; OBJ File ID FJ3801, Representation ID BP36185, FMA ID FMA72658, English name 'Left inferior frontal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Functional areas, linhas 120-122; giro frontal inferior e dominância",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Functional areas, linhas 120-122; giro frontal inferior e dominância",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ3801, BP36185, FMA72658). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não declarar dominância a partir do lado anatômico.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "dd4a915f99c7e9140bfb3b29449dbf7b|FJ7466|BP37231|FMA72757",
+      "type": "structure",
+      "nameEn": "Left lateral orbital gyrus",
+      "namePt": "giro orbital lateral esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro orbital lateral esquerdo é uma estrutura anatômica identificada no modelo e localizada na superfície inferior do lobo frontal, lateral ao sulco orbital lateral. O padrão dos sulcos orbitais varia; o território orbitofrontal participa de avaliação de resultados, recompensa, emoção e ajuste de escolhas em redes distribuídas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro orbital lateral esquerdo fica na superfície inferior do lobo frontal, lateral ao sulco orbital lateral. É um marco orbitofrontal variável relacionado a redes de avaliação, emoção e decisão. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left lateral orbital gyrus.obj; OBJ File ID FJ7466, Representation ID BP37231, FMA ID FMA72757, English name 'Left lateral orbital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ7466, BP37231, FMA72757). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O giro não foi tratado como área funcional única.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "99f0d78666fac7c45b10a985c6d550d4|MM202|BP36821|FMA72759",
+      "type": "structure",
+      "nameEn": "Left medial orbital gyrus",
+      "namePt": "giro orbital medial esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro orbital medial esquerdo é uma estrutura anatômica identificada no modelo e localizada na superfície inferior do lobo frontal, entre os sulcos olfatório e orbital medial. O padrão dos sulcos orbitais varia; o território orbitofrontal participa de avaliação de resultados, recompensa, emoção e ajuste de escolhas em redes distribuídas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro orbital medial esquerdo fica na superfície inferior do lobo frontal, entre os sulcos olfatório e orbital medial. É um marco orbitofrontal variável relacionado a redes de avaliação, emoção e decisão. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left medial orbital gyrus.obj; OBJ File ID MM202, Representation ID BP36821, FMA ID FMA72759, English name 'Left medial orbital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM202, BP36821, FMA72759). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O giro não foi tratado como área funcional única. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "8042d69b032f6374fb94bc91499e9b20|MM227|BP36821|FMA72759",
+      "type": "structure",
+      "nameEn": "Left medial orbital gyrus",
+      "namePt": "giro orbital medial esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro orbital medial esquerdo é uma estrutura anatômica identificada no modelo e localizada na superfície inferior do lobo frontal, entre os sulcos olfatório e orbital medial. O padrão dos sulcos orbitais varia; o território orbitofrontal participa de avaliação de resultados, recompensa, emoção e ajuste de escolhas em redes distribuídas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro orbital medial esquerdo fica na superfície inferior do lobo frontal, entre os sulcos olfatório e orbital medial. É um marco orbitofrontal variável relacionado a redes de avaliação, emoção e decisão. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left medial orbital gyrus_1.obj; OBJ File ID MM227, Representation ID BP36821, FMA ID FMA72759, English name 'Left medial orbital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM227, BP36821, FMA72759). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O giro não foi tratado como área funcional única. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "7eae356cb2491d342a02ca9fbbc1f550|FJ3839|BP35281|FMA72656",
+      "type": "structure",
+      "nameEn": "Left middle frontal gyrus",
+      "namePt": "giro frontal médio esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro frontal médio esquerdo é uma estrutura anatômica identificada no modelo e localizada na convexidade lateral frontal, entre os giros frontal superior e inferior. Inclui córtex de associação pré-frontal e parcelas premotoras ligadas a planejamento, memória de trabalho e controle executivo, com limites funcionais que atravessam giros. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro frontal médio esquerdo fica na convexidade lateral frontal, entre os giros frontal superior e inferior. Reúne córtex de associação ligado a planejamento e controle executivo, sem função única. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_ASSOC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left middle frontal gyrus.obj; OBJ File ID FJ3839, Representation ID BP35281, FMA ID FMA72656, English name 'Left middle frontal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Seção 9, linhas 35-43; associação pré-frontal e planejamento",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Seção 9, linhas 35-43; associação pré-frontal e planejamento",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ3839, BP35281, FMA72656). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Funções atribuídas à região de associação, não a toda a malha.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "3f8bc28750a51954e973d1968ab9830b|MM230|BP36872|FMA80188",
+      "type": "structure",
+      "nameEn": "Left posterior orbital gyrus",
+      "namePt": "giro orbital posterior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro orbital posterior esquerdo é uma estrutura anatômica identificada no modelo e localizada na superfície inferior do lobo frontal, caudal ao sulco orbital transverso. O padrão dos sulcos orbitais varia; o território orbitofrontal participa de avaliação de resultados, recompensa, emoção e ajuste de escolhas em redes distribuídas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro orbital posterior esquerdo fica na superfície inferior do lobo frontal, caudal ao sulco orbital transverso. É um marco orbitofrontal variável relacionado a redes de avaliação, emoção e decisão. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left posterior orbital gyrus.obj; OBJ File ID MM230, Representation ID BP36872, FMA ID FMA80188, English name 'Left posterior orbital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM230, BP36872, FMA80188). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O giro não foi tratado como área funcional única.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "b8c732fdb673a7e4698d4407ed4d071f|FJ3852|BP36414|FMA72662",
+      "type": "structure",
+      "nameEn": "Left precentral gyrus",
+      "namePt": "giro pré-central esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro pré-central esquerdo é uma estrutura anatômica identificada no modelo e localizada imediatamente anterior ao sulco central. Contém a principal representação cortical para movimentos voluntários e organização somatotópica, integrada a vias motoras descendentes e regiões premotoras adjacentes. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro pré-central esquerdo fica imediatamente anterior ao sulco central. Abriga o córtex motor primário e organiza comandos voluntários por partes do corpo. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left precentral gyrus.obj; OBJ File ID FJ3852, Representation ID BP36414, FMA ID FMA72662, English name 'Left precentral gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Seções sulco central e áreas motoras; giro pré-central",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Seções sulco central e áreas motoras; giro pré-central",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ3852, BP36414, FMA72662). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Nenhuma subdivisão ausente no OBJ foi inferida.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "47ed2e4cd63249040846c4d4b814e9a5|FJ7528|BP36659|FMA72660",
+      "type": "structure",
+      "nameEn": "Left straight gyrus",
+      "namePt": "giro reto esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro reto esquerdo é uma estrutura anatômica identificada no modelo e localizada na face orbital medial, junto ao sulco olfatório. Integra o território orbitofrontal, ligado à avaliação, recompensa, emoção e escolhas; a variação sulcal impede atribuir função exclusiva à peça inteira. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro reto esquerdo fica na face orbital medial, junto ao sulco olfatório. Faz parte do território orbitofrontal e de redes de avaliação e regulação comportamental. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left straight gyrus.obj; OBJ File ID FJ7528, Representation ID BP36659, FMA ID FMA72660, English name 'Left straight gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; giro reto e sulco olfatório",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; giro reto e sulco olfatório",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ7528, BP36659, FMA72660). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Papel descrito no nível orbitofrontal.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "b6f03c0317cfe7746b9448b37275f6d0|FJ3879|BP36418|FMA72654",
+      "type": "structure",
+      "nameEn": "Left superior frontal gyrus",
+      "namePt": "giro frontal superior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro frontal superior esquerdo é uma estrutura anatômica identificada no modelo e localizada na porção superior do lobo frontal, nas faces lateral e medial. Reúne parcelas pré-frontais e premotoras em redes de planejamento, memória de trabalho, controle cognitivo e preparação da ação, sem unidade funcional única. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro frontal superior esquerdo fica na porção superior do lobo frontal, nas faces lateral e medial. Contém córtex de associação e motor preparatório ligado a planejamento e controle. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_ASSOC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left superior frontal gyrus.obj; OBJ File ID FJ3879, Representation ID BP36418, FMA ID FMA72654, English name 'Left superior frontal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Seção 9, linhas 35-43; associação anterior e processamento motor",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Seção 9, linhas 35-43; associação anterior e processamento motor",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ3879, BP36418, FMA72654). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Função regional, não exclusiva de toda a malha.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "913e91eb2055da843a86b9157522e320|FJ7465M|BP36969|FMA256198",
+      "type": "structure",
+      "nameEn": "Right anterior orbital gyrus",
+      "namePt": "giro orbital anterior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro orbital anterior direito é uma estrutura anatômica identificada no modelo e localizada na superfície inferior do lobo frontal, rostral ao sulco orbital transverso. O padrão dos sulcos orbitais varia; o território orbitofrontal participa de avaliação de resultados, recompensa, emoção e ajuste de escolhas em redes distribuídas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro orbital anterior direito fica na superfície inferior do lobo frontal, rostral ao sulco orbital transverso. É um marco orbitofrontal variável relacionado a redes de avaliação, emoção e decisão. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right anterior orbital gyrus.obj; OBJ File ID FJ7465M, Representation ID BP36969, FMA ID FMA256198, English name 'Right anterior orbital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ7465M, BP36969, FMA256198). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O giro não foi tratado como área funcional única.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "3fe48ba273d3c774d89c882868a2edb1|FJ3802|BP35284|FMA72657",
+      "type": "structure",
+      "nameEn": "Right inferior frontal gyrus",
+      "namePt": "giro frontal inferior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro frontal inferior direito é uma estrutura anatômica identificada no modelo e localizada na porção inferolateral do lobo frontal, acima do sulco lateral. Abrange parcelas heterogêneas de linguagem e controle de respostas; a produção da fala depende do hemisfério dominante e de subdivisões, não do giro inteiro. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro frontal inferior direito fica na porção inferolateral do lobo frontal, acima do sulco lateral. Participa de linguagem e controle de respostas, mas somente parcelas do hemisfério dominante integram classicamente a área de Broca. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right inferior frontal gyrus.obj; OBJ File ID FJ3802, Representation ID BP35284, FMA ID FMA72657, English name 'Right inferior frontal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Functional areas, linhas 120-122; giro frontal inferior e dominância",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Functional areas, linhas 120-122; giro frontal inferior e dominância",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ3802, BP35284, FMA72657). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não declarar dominância a partir do lado anatômico.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "859aecb124ae9b140a6c91138e76be15|FJ7466M|BP37236|FMA72756",
+      "type": "structure",
+      "nameEn": "Right lateral orbital gyrus",
+      "namePt": "giro orbital lateral direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro orbital lateral direito é uma estrutura anatômica identificada no modelo e localizada na superfície inferior do lobo frontal, lateral ao sulco orbital lateral. O padrão dos sulcos orbitais varia; o território orbitofrontal participa de avaliação de resultados, recompensa, emoção e ajuste de escolhas em redes distribuídas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro orbital lateral direito fica na superfície inferior do lobo frontal, lateral ao sulco orbital lateral. É um marco orbitofrontal variável relacionado a redes de avaliação, emoção e decisão. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right lateral orbital gyrus.obj; OBJ File ID FJ7466M, Representation ID BP37236, FMA ID FMA72756, English name 'Right lateral orbital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ7466M, BP37236, FMA72756). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O giro não foi tratado como área funcional única.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "69acd02a5a84c534c8321e32eb299dfb|MM202M|BP36471|FMA72758",
+      "type": "structure",
+      "nameEn": "Right medial orbital gyrus",
+      "namePt": "giro orbital medial direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro orbital medial direito é uma estrutura anatômica identificada no modelo e localizada na superfície inferior do lobo frontal, entre os sulcos olfatório e orbital medial. O padrão dos sulcos orbitais varia; o território orbitofrontal participa de avaliação de resultados, recompensa, emoção e ajuste de escolhas em redes distribuídas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro orbital medial direito fica na superfície inferior do lobo frontal, entre os sulcos olfatório e orbital medial. É um marco orbitofrontal variável relacionado a redes de avaliação, emoção e decisão. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right medial orbital gyrus.obj; OBJ File ID MM202M, Representation ID BP36471, FMA ID FMA72758, English name 'Right medial orbital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM202M, BP36471, FMA72758). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O giro não foi tratado como área funcional única.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "ab568c4baa2d71b45bea61affebe7ddb|FJ3840|BP36251|FMA72655",
+      "type": "structure",
+      "nameEn": "Right middle frontal gyrus",
+      "namePt": "giro frontal médio direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro frontal médio direito é uma estrutura anatômica identificada no modelo e localizada na convexidade lateral frontal, entre os giros frontal superior e inferior. Inclui córtex de associação pré-frontal e parcelas premotoras ligadas a planejamento, memória de trabalho e controle executivo, com limites funcionais que atravessam giros. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro frontal médio direito fica na convexidade lateral frontal, entre os giros frontal superior e inferior. Reúne córtex de associação ligado a planejamento e controle executivo, sem função única. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_ASSOC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right middle frontal gyrus.obj; OBJ File ID FJ3840, Representation ID BP36251, FMA ID FMA72655, English name 'Right middle frontal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Seção 9, linhas 35-43; associação pré-frontal e planejamento",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Seção 9, linhas 35-43; associação pré-frontal e planejamento",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ3840, BP36251, FMA72655). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Funções atribuídas à região de associação, não a toda a malha.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "a4816ef3d68a3884fa5d3f7402d0fa34|MM230M|BP36767|FMA80187",
+      "type": "structure",
+      "nameEn": "Right posterior orbital gyrus",
+      "namePt": "giro orbital posterior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro orbital posterior direito é uma estrutura anatômica identificada no modelo e localizada na superfície inferior do lobo frontal, caudal ao sulco orbital transverso. O padrão dos sulcos orbitais varia; o território orbitofrontal participa de avaliação de resultados, recompensa, emoção e ajuste de escolhas em redes distribuídas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro orbital posterior direito fica na superfície inferior do lobo frontal, caudal ao sulco orbital transverso. É um marco orbitofrontal variável relacionado a redes de avaliação, emoção e decisão. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right posterior orbital gyrus.obj; OBJ File ID MM230M, Representation ID BP36767, FMA ID FMA80187, English name 'Right posterior orbital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; padrão H ou K e giros orbitais",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM230M, BP36767, FMA80187). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O giro não foi tratado como área funcional única.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "d9e772ce4dfaadf47896e29d09e238b4|FJ3853|BP36698|FMA72661",
+      "type": "structure",
+      "nameEn": "Right precentral gyrus",
+      "namePt": "giro pré-central direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro pré-central direito é uma estrutura anatômica identificada no modelo e localizada imediatamente anterior ao sulco central. Contém a principal representação cortical para movimentos voluntários e organização somatotópica, integrada a vias motoras descendentes e regiões premotoras adjacentes. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro pré-central direito fica imediatamente anterior ao sulco central. Abriga o córtex motor primário e organiza comandos voluntários por partes do corpo. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right precentral gyrus.obj; OBJ File ID FJ3853, Representation ID BP36698, FMA ID FMA72661, English name 'Right precentral gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Seções sulco central e áreas motoras; giro pré-central",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Seções sulco central e áreas motoras; giro pré-central",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ3853, BP36698, FMA72661). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Nenhuma subdivisão ausente no OBJ foi inferida.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "5a4dd419704573b4c9367c82850b7a1b|FJ7528M|BP36789|FMA72659",
+      "type": "structure",
+      "nameEn": "Right straight gyrus",
+      "namePt": "giro reto direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro reto direito é uma estrutura anatômica identificada no modelo e localizada na face orbital medial, junto ao sulco olfatório. Integra o território orbitofrontal, ligado à avaliação, recompensa, emoção e escolhas; a variação sulcal impede atribuir função exclusiva à peça inteira. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro reto direito fica na face orbital medial, junto ao sulco olfatório. Faz parte do território orbitofrontal e de redes de avaliação e regulação comportamental. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right straight gyrus.obj; OBJ File ID FJ7528M, Representation ID BP36789, FMA ID FMA72659, English name 'Right straight gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; giro reto e sulco olfatório",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Orbital surface; giro reto e sulco olfatório",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ7528M, BP36789, FMA72659). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Papel descrito no nível orbitofrontal.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "d0a9184ff0ff1a74d9f9d5fcfb49f395|FJ3880|BP36474|FMA72653",
+      "type": "structure",
+      "nameEn": "Right superior frontal gyrus",
+      "namePt": "giro frontal superior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro frontal superior direito é uma estrutura anatômica identificada no modelo e localizada na porção superior do lobo frontal, nas faces lateral e medial. Reúne parcelas pré-frontais e premotoras em redes de planejamento, memória de trabalho, controle cognitivo e preparação da ação, sem unidade funcional única. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro frontal superior direito fica na porção superior do lobo frontal, nas faces lateral e medial. Contém córtex de associação e motor preparatório ligado a planejamento e controle. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_ASSOC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right superior frontal gyrus.obj; OBJ File ID FJ3880, Representation ID BP36474, FMA ID FMA72653, English name 'Right superior frontal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Seção 9, linhas 35-43; associação anterior e processamento motor",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Seção 9, linhas 35-43; associação anterior e processamento motor",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ3880, BP36474, FMA72653). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Função regional, não exclusiva de toda a malha.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "85afe40186966ac4c991bcbce3c51df9|MM193|BP36827|FMA72718",
+      "type": "structure",
+      "nameEn": "Left cingulate gyrus",
+      "namePt": "giro do cíngulo esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro do cíngulo esquerdo é uma estrutura anatômica identificada no modelo e localizada na face medial, arqueado sobre o corpo caloso. Suas porções anterior e posterior integram redes distintas de motivação, emoção, atenção, memória e controle motor; o giro inteiro não é funcionalmente homogêneo. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro do cíngulo esquerdo fica na face medial, arqueado sobre o corpo caloso. Conecta redes límbicas, cognitivas e motoras, com papéis que variam por sub-região. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CINGULATE"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left cingulate gyrus.obj; OBJ File ID MM193, Representation ID BP36827, FMA ID FMA72718, English name 'Left cingulate gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CINGULATE",
+          "locator": "Estrutura e função; trajeto e redes do córtex cingulado",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CINGULATE",
+          "locator": "Estrutura e função; trajeto e redes do córtex cingulado",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM193, BP36827, FMA72718). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir dominância ao lado anatômico.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "d06787dbaf4687d43add1690de204710|FJ7530|BP33090|FMA72708",
+      "type": "structure",
+      "nameEn": "Left paraterminal gyrus",
+      "namePt": "giro paraterminal esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro paraterminal esquerdo é uma estrutura anatômica identificada no modelo e localizada rostralmente à lâmina terminal, no território subcaloso medial. A literatura destaca anatomia complexa e terminologia variável; conexões límbicas e pré-frontais sustentam contexto regional, não função cognitiva exclusiva deste pequeno giro. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro paraterminal esquerdo fica rostralmente à lâmina terminal, no território subcaloso medial. É um pequeno giro subcaloso de anatomia variável e função específica pouco individualizada. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left paraterminal gyrus.obj; OBJ File ID FJ7530, Representation ID BP33090, FMA ID FMA72708, English name 'Left paraterminal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Limbic lobe; giro paraterminal e área subcalosa",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Limbic lobe; giro paraterminal e área subcalosa",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ7530, BP33090, FMA72708). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Separar localização comprovada de função regional.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "c9682edd25502444fbb5b5f0502820df|FJ7529|BP33887|FMA72849",
+      "type": "structure",
+      "nameEn": "Left subcallosal area",
+      "namePt": "área subcalosa esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "Área subcalosa esquerda é uma estrutura anatômica identificada no modelo e localizada inferiormente ao rostro do corpo caloso, na face medial ventral. Integra território cortical complexo próximo ao giro paraterminal e córtex orbitomedial, participando de circuitos afetivos e autonômicos sem delimitar sub-região funcional homogênea. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Área subcalosa esquerda fica inferiormente ao rostro do corpo caloso, na face medial ventral. Integra circuitos límbicos e pré-frontais de emoção e regulação autonômica. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left subcallosal area.obj; OBJ File ID FJ7529, Representation ID BP33887, FMA ID FMA72849, English name 'Left subcallosal area'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Limbic lobe; área subcalosa e seus componentes",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Limbic lobe; área subcalosa e seus componentes",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ7529, BP33887, FMA72849). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não equivaler automaticamente a área de Brodmann.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "f3ea17d367ab2344cad9fecbb09aab31|MM193M|BP34000|FMA72717",
+      "type": "structure",
+      "nameEn": "Right cingulate gyrus",
+      "namePt": "giro do cíngulo direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro do cíngulo direito é uma estrutura anatômica identificada no modelo e localizada na face medial, arqueado sobre o corpo caloso. Suas porções anterior e posterior integram redes distintas de motivação, emoção, atenção, memória e controle motor; o giro inteiro não é funcionalmente homogêneo. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro do cíngulo direito fica na face medial, arqueado sobre o corpo caloso. Conecta redes límbicas, cognitivas e motoras, com papéis que variam por sub-região. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CINGULATE"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right cingulate gyrus.obj; OBJ File ID MM193M, Representation ID BP34000, FMA ID FMA72717, English name 'Right cingulate gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CINGULATE",
+          "locator": "Estrutura e função; trajeto e redes do córtex cingulado",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CINGULATE",
+          "locator": "Estrutura e função; trajeto e redes do córtex cingulado",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM193M, BP34000, FMA72717). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir dominância ao lado anatômico.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "a107f331c37a7eb489f45cc6d551bf94|FJ7530M|BP33088|FMA72707",
+      "type": "structure",
+      "nameEn": "Right paraterminal gyrus",
+      "namePt": "giro paraterminal direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro paraterminal direito é uma estrutura anatômica identificada no modelo e localizada rostralmente à lâmina terminal, no território subcaloso medial. A literatura destaca anatomia complexa e terminologia variável; conexões límbicas e pré-frontais sustentam contexto regional, não função cognitiva exclusiva deste pequeno giro. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro paraterminal direito fica rostralmente à lâmina terminal, no território subcaloso medial. É um pequeno giro subcaloso de anatomia variável e função específica pouco individualizada. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_GYRI_TERMS"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right paraterminal gyrus.obj; OBJ File ID FJ7530M, Representation ID BP33088, FMA ID FMA72707, English name 'Right paraterminal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Limbic lobe; giro paraterminal e área subcalosa",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_GYRI_TERMS",
+          "locator": "Seção Limbic lobe; giro paraterminal e área subcalosa",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ7530M, BP33088, FMA72707). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Separar localização comprovada de função regional.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "6f4f1323cbcf03547aaba17db5bb9f47|MM243|BP36477|FMA72680",
+      "type": "structure",
+      "nameEn": "Left cuneus",
+      "namePt": "cúneo esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Cúneo esquerdo é uma estrutura anatômica identificada no modelo e localizada na face medial do lobo occipital, superior ao sulco calcarino. Pertence ao território visual occipital; seus limites girais orientam a anatomia, mas não coincidem perfeitamente com mapas visuais ou citoarquitetônicos. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Cúneo esquerdo fica na face medial do lobo occipital, superior ao sulco calcarino. Participa do contexto visual occipital, sem representar sozinho uma área visual única. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left cuneus.obj; OBJ File ID MM243, Representation ID BP36477, FMA ID FMA72680, English name 'Left cuneus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe; sulco calcarino e processamento visual",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe; sulco calcarino e processamento visual",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM243, BP36477, FMA72680). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não equiparar automaticamente a V1 ou área de Brodmann.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "28fca9b54833f514aa087517d123a2d1|MM251|BP36485|FMA72678",
+      "type": "structure",
+      "nameEn": "Left lateral occipital gyrus",
+      "namePt": "giro occipital lateral esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro occipital lateral esquerdo é uma estrutura anatômica identificada no modelo e localizada na superfície lateral do lobo occipital. Pertence ao território visual occipital e a áreas de associação; seus limites girais variam e não coincidem perfeitamente com mapas funcionais. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro occipital lateral esquerdo fica na superfície lateral do lobo occipital. Participa do processamento visual occipital e associativo, sem função exclusiva para toda a peça. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left lateral occipital gyrus.obj; OBJ File ID MM251, Representation ID BP36485, FMA ID FMA72678, English name 'Left lateral occipital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe e functional areas; processamento visual",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe e functional areas; processamento visual",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM251, BP36485, FMA72678). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Função mantida no nível occipital.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "ae18d0dd3f4be7a44b8dc0eaa2c47e96|MM252|BP37117|FMA72682",
+      "type": "structure",
+      "nameEn": "Left lingual gyrus",
+      "namePt": "giro lingual esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro lingual esquerdo é uma estrutura anatômica identificada no modelo e localizada na face medial occipitotemporal, inferior ao sulco calcarino. Pertence ao território visual occipital e conecta-se a áreas de associação; o contorno macroscópico não define sozinho uma parcela visual homogênea. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro lingual esquerdo fica na face medial occipitotemporal, inferior ao sulco calcarino. Participa do processamento visual medial, sem equivaler integralmente a uma área visual única. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left lingual gyrus.obj; OBJ File ID MM252, Representation ID BP37117, FMA ID FMA72682, English name 'Left lingual gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe; sulco calcarino e processamento visual",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe; sulco calcarino e processamento visual",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM252, BP37117, FMA72682). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não equiparar automaticamente a V1 ou área de Brodmann.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "57302b8e94f1caf48ac0601abc62355c|MM245|BP37172|FMA72676",
+      "type": "structure",
+      "nameEn": "Left superior occipital gyrus",
+      "namePt": "giro occipital superior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro occipital superior esquerdo é uma estrutura anatômica identificada no modelo e localizada na porção superior do lobo occipital. Integra o território visual de associação; a variação dos sulcos e limites girais impede deduzir uma função visual exclusiva apenas pelo nome. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro occipital superior esquerdo fica na porção superior do lobo occipital. Participa do processamento visual associativo, mas o giro não é uma unidade funcional única. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left superior occipital gyrus.obj; OBJ File ID MM245, Representation ID BP37172, FMA ID FMA72676, English name 'Left superior occipital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe e functional areas; processamento visual",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe e functional areas; processamento visual",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM245, BP37172, FMA72676). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Função mantida no nível occipital.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "0bd20286dcf252745b6bc2167c00de99|MM243M|BP36354|FMA72679",
+      "type": "structure",
+      "nameEn": "Right cuneus",
+      "namePt": "cúneo direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Cúneo direito é uma estrutura anatômica identificada no modelo e localizada na face medial do lobo occipital, superior ao sulco calcarino. Pertence ao território visual occipital; seus limites girais orientam a anatomia, mas não coincidem perfeitamente com mapas visuais ou citoarquitetônicos. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Cúneo direito fica na face medial do lobo occipital, superior ao sulco calcarino. Participa do contexto visual occipital, sem representar sozinho uma área visual única. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right cuneus.obj; OBJ File ID MM243M, Representation ID BP36354, FMA ID FMA72679, English name 'Right cuneus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe; sulco calcarino e processamento visual",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe; sulco calcarino e processamento visual",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM243M, BP36354, FMA72679). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não equiparar automaticamente a V1 ou área de Brodmann.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "14cc19c2e5be12d4895a2c588973f1b7|MM251M|BP36476|FMA72677",
+      "type": "structure",
+      "nameEn": "Right lateral occipital gyrus",
+      "namePt": "giro occipital lateral direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro occipital lateral direito é uma estrutura anatômica identificada no modelo e localizada na superfície lateral do lobo occipital. Pertence ao território visual occipital e a áreas de associação; seus limites girais variam e não coincidem perfeitamente com mapas funcionais. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro occipital lateral direito fica na superfície lateral do lobo occipital. Participa do processamento visual occipital e associativo, sem função exclusiva para toda a peça. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right lateral occipital gyrus.obj; OBJ File ID MM251M, Representation ID BP36476, FMA ID FMA72677, English name 'Right lateral occipital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe e functional areas; processamento visual",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe e functional areas; processamento visual",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM251M, BP36476, FMA72677). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Função mantida no nível occipital.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "1c949985e25824140ac26996e1b10550|MM252M|BP36513|FMA72681",
+      "type": "structure",
+      "nameEn": "Right lingual gyrus",
+      "namePt": "giro lingual direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro lingual direito é uma estrutura anatômica identificada no modelo e localizada na face medial occipitotemporal, inferior ao sulco calcarino. Pertence ao território visual occipital e conecta-se a áreas de associação; o contorno macroscópico não define sozinho uma parcela visual homogênea. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro lingual direito fica na face medial occipitotemporal, inferior ao sulco calcarino. Participa do processamento visual medial, sem equivaler integralmente a uma área visual única. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right lingual gyrus.obj; OBJ File ID MM252M, Representation ID BP36513, FMA ID FMA72681, English name 'Right lingual gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe; sulco calcarino e processamento visual",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe; sulco calcarino e processamento visual",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM252M, BP36513, FMA72681). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não equiparar automaticamente a V1 ou área de Brodmann.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "873b3fbb673c4d04aa144628bd9c4b96|MM245M|BP36883|FMA72675",
+      "type": "structure",
+      "nameEn": "Right superior occipital gyrus",
+      "namePt": "giro occipital superior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro occipital superior direito é uma estrutura anatômica identificada no modelo e localizada na porção superior do lobo occipital. Integra o território visual de associação; a variação dos sulcos e limites girais impede deduzir uma função visual exclusiva apenas pelo nome. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro occipital superior direito fica na porção superior do lobo occipital. Participa do processamento visual associativo, mas o giro não é uma unidade funcional única. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right superior occipital gyrus.obj; OBJ File ID MM245M, Representation ID BP36883, FMA ID FMA72675, English name 'Right superior occipital gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe e functional areas; processamento visual",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Occipital lobe e functional areas; processamento visual",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM245M, BP36883, FMA72675). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Função mantida no nível occipital.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "cad5ad07bbf02ed49993ea2e10839928|MM242|BP37051|FMA72670",
+      "type": "structure",
+      "nameEn": "Left angular gyrus",
+      "namePt": "giro angular esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro angular esquerdo é uma estrutura anatômica identificada no modelo e localizada no lóbulo parietal inferior, junto à junção temporo-occipital. Integra informação visual, auditiva e somatossensorial em redes de linguagem, leitura, cálculo e semântica; dominância e subdivisões variam entre pessoas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro angular esquerdo fica no lóbulo parietal inferior, junto à junção temporo-occipital. Participa de integração multimodal, linguagem, leitura e cálculo, com lateralização individual variável. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left angular gyrus.obj; OBJ File ID MM242, Representation ID BP37051, FMA ID FMA72670, English name 'Left angular gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Association areas, linha 129; giro angular e dominância variável",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Association areas, linha 129; giro angular e dominância variável",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM242, BP37051, FMA72670). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não equiparar todo o giro à área de Wernicke.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "412b88db61ba7ce4ebbebd901aaab882|MM232|BP34430|FMA72721",
+      "type": "structure",
+      "nameEn": "Left first posterior central gyrus",
+      "namePt": "primeiro giro central posterior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Primeiro giro central posterior esquerdo é uma estrutura anatômica identificada no modelo e localizada junto à região pós-central do lobo parietal. O ordinal não é subdivisão funcional universal nas fontes atuais; a localização relaciona a peça ao território somatossensorial, sem autorizar mapa corporal ou área de Brodmann específica. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Primeiro giro central posterior esquerdo fica junto à região pós-central do lobo parietal. É uma peça próxima ao giro pós-central; o ordinal distingue a malha, não uma subárea funcional reconhecida. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left first posterior central gyrus.obj; OBJ File ID MM232, Representation ID BP34430, FMA ID FMA72721, English name 'Left first posterior central gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Giro pós-central, linhas 20 e 124-125",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Giro pós-central, linhas 20 e 124-125",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM232, BP34430, FMA72721). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Rótulo ordinal preservado do OBJ.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "befc1d0db6b60384c85c3b705ea4d12e|FJ3849|BP36774|FMA72666",
+      "type": "structure",
+      "nameEn": "Left postcentral gyrus",
+      "namePt": "giro pós-central esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro pós-central esquerdo é uma estrutura anatômica identificada no modelo e localizada imediatamente posterior ao sulco central. Contém o córtex somatossensorial primário e organiza tato, propriocepção, temperatura e dor somatotopicamente em circuitos tálamo-corticais; o lado não implica dominância. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro pós-central esquerdo fica imediatamente posterior ao sulco central. Abriga o córtex somatossensorial primário e organiza sinais corporais em mapa somatotópico. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left postcentral gyrus.obj; OBJ File ID FJ3849, Representation ID BP36774, FMA ID FMA72666, English name 'Left postcentral gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Primary sensory areas, linhas 124-125",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Primary sensory areas, linhas 124-125",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ3849, BP36774, FMA72666). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Princípio somatotópico não equivale a dominância hemisférica.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "83ff37304775b4947bceee63efdcaa8d|MM246|BP36490|FMA72674",
+      "type": "structure",
+      "nameEn": "Left precuneus",
+      "namePt": "precúneo esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Precúneo esquerdo é uma estrutura anatômica identificada no modelo e localizada na face medial do lobo parietal, anterior ao sulco parieto-occipital. Integra redes parietais, cinguladas e temporais relacionadas a processamento visuoespacial, memória e cognição autorreferencial; suas sub-regiões são funcionalmente diversas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Precúneo esquerdo fica na face medial do lobo parietal, anterior ao sulco parieto-occipital. Integra informação visuoespacial, memória e processos autorreferenciais em redes amplas. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_ASSOC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left precuneus.obj; OBJ File ID MM246, Representation ID BP36490, FMA ID FMA72674, English name 'Left precuneus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Posterior association area, linhas 31-42",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Posterior association area, linhas 31-42",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM246, BP36490, FMA72674). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. A fonte sustenta função associativa posterior; especificidade regional cautelosa.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "54a83a83f30e86545945cdd64ed2a8af|MM233|BP33791|FMA72723",
+      "type": "structure",
+      "nameEn": "Left second posterior central gyrus",
+      "namePt": "segundo giro central posterior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Segundo giro central posterior esquerdo é uma estrutura anatômica identificada no modelo e localizada junto à região pós-central do lobo parietal. O ordinal não é subdivisão funcional universal nas fontes atuais; a localização relaciona a peça ao território somatossensorial, sem autorizar mapa corporal ou área de Brodmann específica. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Segundo giro central posterior esquerdo fica junto à região pós-central do lobo parietal. É uma peça próxima ao giro pós-central; o ordinal distingue a malha, não uma subárea funcional reconhecida. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left second posterior central gyrus.obj; OBJ File ID MM233, Representation ID BP33791, FMA ID FMA72723, English name 'Left second posterior central gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Giro pós-central, linhas 20 e 124-125",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Giro pós-central, linhas 20 e 124-125",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM233, BP33791, FMA72723). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Rótulo ordinal preservado do OBJ.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "e046407a4bbdf6245bb64df69e520af8|MM247|BP37028|FMA72672",
+      "type": "structure",
+      "nameEn": "Left superior parietal lobule",
+      "namePt": "lóbulo parietal superior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Lóbulo parietal superior esquerdo é uma estrutura anatômica identificada no modelo e localizada acima do sulco intraparietal e posterior ao giro pós-central. Combina tato, propriocepção e visão para representar o corpo e orientar ações no espaço; seus limites incluem múltiplas parcelas funcionais. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Lóbulo parietal superior esquerdo fica acima do sulco intraparietal e posterior ao giro pós-central. Integra sinais corporais e visuais para percepção espacial e orientação de movimentos. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_ASSOC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left superior parietal lobule.obj; OBJ File ID MM247, Representation ID BP37028, FMA ID FMA72672, English name 'Left superior parietal lobule'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Posterior association area, linhas 31-42",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Posterior association area, linhas 31-42",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM247, BP37028, FMA72672). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Descrição bilateral e de rede.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "b23e0004ca8d38a4bb3f0cadd009ae76|MM250|BP33811|FMA72668",
+      "type": "structure",
+      "nameEn": "Left supramarginal gyrus",
+      "namePt": "giro supramarginal esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro supramarginal esquerdo é uma estrutura anatômica identificada no modelo e localizada no lóbulo parietal inferior, contornando a extremidade do sulco lateral. Integra informação somatossensorial, auditiva e linguística; a participação em linguagem depende de dominância e sub-regiões, não apenas do lado anatômico. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro supramarginal esquerdo fica no lóbulo parietal inferior, contornando a extremidade do sulco lateral. Participa de integração sensorial, percepção e linguagem, com lateralização individual variável. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left supramarginal gyrus.obj; OBJ File ID MM250, Representation ID BP33811, FMA ID FMA72668, English name 'Left supramarginal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Association areas, linha 129; giro supramarginal",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Association areas, linha 129; giro supramarginal",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM250, BP33811, FMA72668). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não equiparar todo o giro à área de Wernicke.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "1b4a1c6d1dc1c5b4f9337c9106488850|MM242M|BP37180|FMA72669",
+      "type": "structure",
+      "nameEn": "Right angular gyrus",
+      "namePt": "giro angular direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro angular direito é uma estrutura anatômica identificada no modelo e localizada no lóbulo parietal inferior, junto à junção temporo-occipital. Integra informação visual, auditiva e somatossensorial em redes de linguagem, leitura, cálculo e semântica; dominância e subdivisões variam entre pessoas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro angular direito fica no lóbulo parietal inferior, junto à junção temporo-occipital. Participa de integração multimodal, linguagem, leitura e cálculo, com lateralização individual variável. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right angular gyrus.obj; OBJ File ID MM242M, Representation ID BP37180, FMA ID FMA72669, English name 'Right angular gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Association areas, linha 129; giro angular e dominância variável",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Association areas, linha 129; giro angular e dominância variável",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM242M, BP37180, FMA72669). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não equiparar todo o giro à área de Wernicke.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "df5dc0cf3b49d2c40ac19aa044a1c512|MM232M|BP36004|FMA72720",
+      "type": "structure",
+      "nameEn": "Right first posterior central gyrus",
+      "namePt": "primeiro giro central posterior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Primeiro giro central posterior direito é uma estrutura anatômica identificada no modelo e localizada junto à região pós-central do lobo parietal. O ordinal não é subdivisão funcional universal nas fontes atuais; a localização relaciona a peça ao território somatossensorial, sem autorizar mapa corporal ou área de Brodmann específica. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Primeiro giro central posterior direito fica junto à região pós-central do lobo parietal. É uma peça próxima ao giro pós-central; o ordinal distingue a malha, não uma subárea funcional reconhecida. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right first posterior central gyrus.obj; OBJ File ID MM232M, Representation ID BP36004, FMA ID FMA72720, English name 'Right first posterior central gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Giro pós-central, linhas 20 e 124-125",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Giro pós-central, linhas 20 e 124-125",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM232M, BP36004, FMA72720). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Rótulo ordinal preservado do OBJ.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "8a83062d200ac17479bcf85b0f78ab8d|FJ3850|BP37078|FMA72665",
+      "type": "structure",
+      "nameEn": "Right postcentral gyrus",
+      "namePt": "giro pós-central direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro pós-central direito é uma estrutura anatômica identificada no modelo e localizada imediatamente posterior ao sulco central. Contém o córtex somatossensorial primário e organiza tato, propriocepção, temperatura e dor somatotopicamente em circuitos tálamo-corticais; o lado não implica dominância. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro pós-central direito fica imediatamente posterior ao sulco central. Abriga o córtex somatossensorial primário e organiza sinais corporais em mapa somatotópico. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right postcentral gyrus.obj; OBJ File ID FJ3850, Representation ID BP37078, FMA ID FMA72665, English name 'Right postcentral gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Primary sensory areas, linhas 124-125",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Primary sensory areas, linhas 124-125",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (FJ3850, BP37078, FMA72665). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Princípio somatotópico não equivale a dominância hemisférica.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "d82ee44120e22a6478a4eae2f2647724|MM246M|BP36523|FMA72673",
+      "type": "structure",
+      "nameEn": "Right precuneus",
+      "namePt": "precúneo direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Precúneo direito é uma estrutura anatômica identificada no modelo e localizada na face medial do lobo parietal, anterior ao sulco parieto-occipital. Integra redes parietais, cinguladas e temporais relacionadas a processamento visuoespacial, memória e cognição autorreferencial; suas sub-regiões são funcionalmente diversas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Precúneo direito fica na face medial do lobo parietal, anterior ao sulco parieto-occipital. Integra informação visuoespacial, memória e processos autorreferenciais em redes amplas. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_ASSOC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right precuneus.obj; OBJ File ID MM246M, Representation ID BP36523, FMA ID FMA72673, English name 'Right precuneus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Posterior association area, linhas 31-42",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Posterior association area, linhas 31-42",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM246M, BP36523, FMA72673). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. A fonte sustenta função associativa posterior; especificidade regional cautelosa.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "890ec098186c4a74dbc405e3c540dcf3|MM233M|BP34404|FMA72722",
+      "type": "structure",
+      "nameEn": "Right second posterior central gyrus",
+      "namePt": "segundo giro central posterior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Segundo giro central posterior direito é uma estrutura anatômica identificada no modelo e localizada junto à região pós-central do lobo parietal. O ordinal não é subdivisão funcional universal nas fontes atuais; a localização relaciona a peça ao território somatossensorial, sem autorizar mapa corporal ou área de Brodmann específica. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Segundo giro central posterior direito fica junto à região pós-central do lobo parietal. É uma peça próxima ao giro pós-central; o ordinal distingue a malha, não uma subárea funcional reconhecida. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right second posterior central gyrus.obj; OBJ File ID MM233M, Representation ID BP34404, FMA ID FMA72722, English name 'Right second posterior central gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Giro pós-central, linhas 20 e 124-125",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Giro pós-central, linhas 20 e 124-125",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM233M, BP34404, FMA72722). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Rótulo ordinal preservado do OBJ.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "986a3ef2290ce3948b6f96d5e60a7758|MM247M|BP37000|FMA72671",
+      "type": "structure",
+      "nameEn": "Right superior parietal lobule",
+      "namePt": "lóbulo parietal superior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Lóbulo parietal superior direito é uma estrutura anatômica identificada no modelo e localizada acima do sulco intraparietal e posterior ao giro pós-central. Combina tato, propriocepção e visão para representar o corpo e orientar ações no espaço; seus limites incluem múltiplas parcelas funcionais. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Lóbulo parietal superior direito fica acima do sulco intraparietal e posterior ao giro pós-central. Integra sinais corporais e visuais para percepção espacial e orientação de movimentos. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_ASSOC"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right superior parietal lobule.obj; OBJ File ID MM247M, Representation ID BP37000, FMA ID FMA72671, English name 'Right superior parietal lobule'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Posterior association area, linhas 31-42",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_ASSOC",
+          "locator": "Posterior association area, linhas 31-42",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM247M, BP37000, FMA72671). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Descrição bilateral e de rede.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "2248cfc2dbff9d74ab763178f10ca305|MM250M|BP36699|FMA72667",
+      "type": "structure",
+      "nameEn": "Right supramarginal gyrus",
+      "namePt": "giro supramarginal direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro supramarginal direito é uma estrutura anatômica identificada no modelo e localizada no lóbulo parietal inferior, contornando a extremidade do sulco lateral. Integra informação somatossensorial, auditiva e linguística; a participação em linguagem depende de dominância e sub-regiões, não apenas do lado anatômico. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro supramarginal direito fica no lóbulo parietal inferior, contornando a extremidade do sulco lateral. Participa de integração sensorial, percepção e linguagem, com lateralização individual variável. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right supramarginal gyrus.obj; OBJ File ID MM250M, Representation ID BP36699, FMA ID FMA72667, English name 'Right supramarginal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Association areas, linha 129; giro supramarginal",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Association areas, linha 129; giro supramarginal",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM250M, BP36699, FMA72667). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não equiparar todo o giro à área de Wernicke.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "6f30ac1d1f329774488592abb54f74b2|MM172|BP32591|FMA74884",
+      "type": "structure",
+      "nameEn": "Uncus",
+      "namePt": "unco",
+      "latinName": "",
+      "scientificDescriptionPt": "Unco é uma estrutura anatômica identificada no modelo e localizada na projeção anteromedial recurvada do giro parahipocampal. Reúne vizinhanças olfatórias, periamigdaloides e hipocampais em circuitos distintos de olfação, emoção e memória; o OBJ não especifica subcampo nem lado. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Unco fica na projeção anteromedial recurvada do giro parahipocampal. Relaciona-se a territórios olfatórios e límbicos, mas a malha não identifica subcampo funcional nem lado. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Uncus_1.obj; OBJ File ID MM172, Representation ID BP32591, FMA ID FMA74884, English name 'Uncus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP_ANAT",
+          "locator": "Seção Amygdala; unco, córtex periamigdaloide e relações olfatórias",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP_ANAT",
+          "locator": "Seção Amygdala; unco, córtex periamigdaloide e relações olfatórias",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM172, BP32591, FMA74884). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Quatro representações físicas compartilham conceito FMA e não trazem lado no cabeçalho. O conceito FMA aparece em 4 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "dbde12669681ff346adb8689f091e438|MM172M|BP32591|FMA74884",
+      "type": "structure",
+      "nameEn": "Uncus",
+      "namePt": "unco",
+      "latinName": "",
+      "scientificDescriptionPt": "Unco é uma estrutura anatômica identificada no modelo e localizada na projeção anteromedial recurvada do giro parahipocampal. Reúne vizinhanças olfatórias, periamigdaloides e hipocampais em circuitos distintos de olfação, emoção e memória; o OBJ não especifica subcampo nem lado. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Unco fica na projeção anteromedial recurvada do giro parahipocampal. Relaciona-se a territórios olfatórios e límbicos, mas a malha não identifica subcampo funcional nem lado. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Uncus.obj; OBJ File ID MM172M, Representation ID BP32591, FMA ID FMA74884, English name 'Uncus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP_ANAT",
+          "locator": "Seção Amygdala; unco, córtex periamigdaloide e relações olfatórias",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP_ANAT",
+          "locator": "Seção Amygdala; unco, córtex periamigdaloide e relações olfatórias",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM172M, BP32591, FMA74884). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Quatro representações físicas compartilham conceito FMA e não trazem lado no cabeçalho. O conceito FMA aparece em 4 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "da8c7a804dbe5eb448c9f10697592048|MM259|BP33994|FMA72692",
+      "type": "structure",
+      "nameEn": "Left anterior transverse temporal gyrus",
+      "namePt": "giro temporal transverso anterior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro temporal transverso anterior esquerdo é uma estrutura anatômica identificada no modelo e localizada na face superior do temporal, dentro do sulco lateral. O complexo transversal inclui córtex auditivo primário e áreas adjacentes, mas a divisão anterior não determina isoladamente fronteira funcional. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro temporal transverso anterior esquerdo fica na face superior do temporal, dentro do sulco lateral. Integra o complexo auditivo transversal; a peça anterior não define sozinha função exclusiva. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left anterior transverse temporal gyrus.obj; OBJ File ID MM259, Representation ID BP33994, FMA ID FMA72692, English name 'Left anterior transverse temporal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Temporal lobe e auditory areas; giros temporais transversos",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Temporal lobe e auditory areas; giros temporais transversos",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM259, BP33994, FMA72692). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir área auditiva ou Brodmann exata ao segmento.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "a3b57775952a14e488b4024684c029ea|MM253|BP36937|FMA72690",
+      "type": "structure",
+      "nameEn": "Left fusiform gyrus",
+      "namePt": "giro fusiforme esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro fusiforme esquerdo é uma estrutura anatômica identificada no modelo e localizada na superfície ventral occipitotemporal, entre os sulcos colateral e occipitotemporal. Contém parcelas de associação visual envolvidas em reconhecimento de objetos, faces e palavras; respostas são distribuídas e não tornam o giro inteiro um módulo único. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro fusiforme esquerdo fica na superfície ventral occipitotemporal, entre os sulcos colateral e occipitotemporal. Participa do reconhecimento visual de objetos, rostos e palavras por sub-regiões e redes distribuídas. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left fusiform gyrus.obj; OBJ File ID MM253, Representation ID BP36937, FMA ID FMA72690, English name 'Left fusiform gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Inferior Temporal System, linhas 81-84",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Inferior Temporal System, linhas 81-84",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM253, BP36937, FMA72690). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Evitar a simplificação “área das faces” para o giro inteiro.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "a9ded082580e5784e908bfd88fe22227|MM268|BP36812|FMA72688",
+      "type": "structure",
+      "nameEn": "Left inferior temporal gyrus",
+      "namePt": "giro temporal inferior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro temporal inferior esquerdo é uma estrutura anatômica identificada no modelo e localizada na face inferolateral do lobo temporal. Integra a via visual ventral por parcelas conectadas a regiões occipitais e frontais, sustentando análise de formas, objetos e significado visual. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro temporal inferior esquerdo fica na face inferolateral do lobo temporal. Ajuda a reconhecer formas e objetos como parte da via visual ventral. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left inferior temporal gyrus.obj; OBJ File ID MM268, Representation ID BP36812, FMA ID FMA72688, English name 'Left inferior temporal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Inferior Temporal System, linhas 81-84",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Inferior Temporal System, linhas 81-84",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM268, BP36812, FMA72688). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Papel no nível do sistema temporal inferior.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "1b0c91cbf1ab82e48a3ac79026c09ca6|MM248|BP36668|FMA72686",
+      "type": "structure",
+      "nameEn": "Left middle temporal gyrus",
+      "namePt": "giro temporal médio esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro temporal médio esquerdo é uma estrutura anatômica identificada no modelo e localizada na face lateral temporal, entre os giros superior e inferior. Abrange parcelas conectadas a redes de linguagem, semântica, memória e visão; a função muda ao longo do eixo anterior-posterior. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro temporal médio esquerdo fica na face lateral temporal, entre os giros superior e inferior. Participa de redes semânticas, linguísticas, visuais e de memória por diferentes sub-regiões. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left middle temporal gyrus.obj; OBJ File ID MM248, Representation ID BP36668, FMA ID FMA72686, English name 'Left middle temporal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Temporal area 1 e PHT, linhas 72-75",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Temporal area 1 e PHT, linhas 72-75",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM248, BP36668, FMA72686). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não presumir lateralização pela anatomia.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "7f662ab6a9cc3ab44bed33b832ce362d|MM263|BP34403|FMA72739",
+      "type": "structure",
+      "nameEn": "Left posterior parahippocampal gyrus",
+      "namePt": "giro parahipocampal posterior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro parahipocampal posterior esquerdo é uma estrutura anatômica identificada no modelo e localizada na face medial temporal, adjacente à formação hipocampal. Conecta informação visual e espacial a circuitos de memória, contribuindo para representação de contextos e cenas; o limite macroscópico não é campo funcional único. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro parahipocampal posterior esquerdo fica na face medial temporal, adjacente à formação hipocampal. Integra informação visuoespacial e contextual com sistemas de memória. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left posterior parahippocampal gyrus.obj; OBJ File ID MM263, Representation ID BP34403, FMA ID FMA72739, English name 'Left posterior parahippocampal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Medial Temporal System, linhas 86-93",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Medial Temporal System, linhas 86-93",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM263, BP34403, FMA72739). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Função regional, sem área de Brodmann exata.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "6142662118c7da34c9c1cf1aa0d8f32f|MM261|BP33998|FMA72694",
+      "type": "structure",
+      "nameEn": "Left posterior transverse temporal gyrus",
+      "namePt": "giro temporal transverso posterior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro temporal transverso posterior esquerdo é uma estrutura anatômica identificada no modelo e localizada na face superior do temporal, dentro do sulco lateral. O complexo transversal inclui córtex auditivo primário e áreas adjacentes, mas a divisão posterior não determina isoladamente fronteira funcional. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro temporal transverso posterior esquerdo fica na face superior do temporal, dentro do sulco lateral. Integra o complexo auditivo transversal; a peça posterior não define sozinha função exclusiva. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left posterior transverse temporal gyrus.obj; OBJ File ID MM261, Representation ID BP33998, FMA ID FMA72694, English name 'Left posterior transverse temporal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Temporal lobe e auditory areas; giros temporais transversos",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Temporal lobe e auditory areas; giros temporais transversos",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM261, BP33998, FMA72694). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir área auditiva ou Brodmann exata ao segmento.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "4ca862d746949ec4398fab4ed307793c|MM267|BP36480|FMA72684",
+      "type": "structure",
+      "nameEn": "Left superior temporal gyrus",
+      "namePt": "giro temporal superior esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro temporal superior esquerdo é uma estrutura anatômica identificada no modelo e localizada na margem superior temporal, inferior ao sulco lateral. Abrange córtex auditivo e associação para sons, fala e integração audiovisual; a distribuição varia ao longo do giro e entre indivíduos. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro temporal superior esquerdo fica na margem superior temporal, inferior ao sulco lateral. Processa sons e participa de redes de fala e integração audiovisual por diferentes sub-regiões. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left superior temporal gyrus.obj; OBJ File ID MM267, Representation ID BP36480, FMA ID FMA72684, English name 'Left superior temporal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Lateral temporal system, linhas 42-46 e 75-80",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Lateral temporal system, linhas 42-46 e 75-80",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM267, BP36480, FMA72684). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir compreensão da linguagem a todo o giro.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "ea96c609062b81348b15fa53f16b24d6|MM259M|BP36584|FMA72691",
+      "type": "structure",
+      "nameEn": "Right anterior transverse temporal gyrus",
+      "namePt": "giro temporal transverso anterior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro temporal transverso anterior direito é uma estrutura anatômica identificada no modelo e localizada na face superior do temporal, dentro do sulco lateral. O complexo transversal inclui córtex auditivo primário e áreas adjacentes, mas a divisão anterior não determina isoladamente fronteira funcional. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro temporal transverso anterior direito fica na face superior do temporal, dentro do sulco lateral. Integra o complexo auditivo transversal; a peça anterior não define sozinha função exclusiva. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right anterior transverse temporal gyrus.obj; OBJ File ID MM259M, Representation ID BP36584, FMA ID FMA72691, English name 'Right anterior transverse temporal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Temporal lobe e auditory areas; giros temporais transversos",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Temporal lobe e auditory areas; giros temporais transversos",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM259M, BP36584, FMA72691). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir área auditiva ou Brodmann exata ao segmento.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "0058b56ece4cb9a49b568e49eaacbc84|MM253M|BP36512|FMA72689",
+      "type": "structure",
+      "nameEn": "Right fusiform gyrus",
+      "namePt": "giro fusiforme direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro fusiforme direito é uma estrutura anatômica identificada no modelo e localizada na superfície ventral occipitotemporal, entre os sulcos colateral e occipitotemporal. Contém parcelas de associação visual envolvidas em reconhecimento de objetos, faces e palavras; respostas são distribuídas e não tornam o giro inteiro um módulo único. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro fusiforme direito fica na superfície ventral occipitotemporal, entre os sulcos colateral e occipitotemporal. Participa do reconhecimento visual de objetos, rostos e palavras por sub-regiões e redes distribuídas. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right fusiform gyrus.obj; OBJ File ID MM253M, Representation ID BP36512, FMA ID FMA72689, English name 'Right fusiform gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Inferior Temporal System, linhas 81-84",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Inferior Temporal System, linhas 81-84",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM253M, BP36512, FMA72689). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Evitar a simplificação “área das faces” para o giro inteiro.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "7e09f6257124b8540834c25aaac507c3|MM268M|BP36665|FMA72687",
+      "type": "structure",
+      "nameEn": "Right inferior temporal gyrus",
+      "namePt": "giro temporal inferior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro temporal inferior direito é uma estrutura anatômica identificada no modelo e localizada na face inferolateral do lobo temporal. Integra a via visual ventral por parcelas conectadas a regiões occipitais e frontais, sustentando análise de formas, objetos e significado visual. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro temporal inferior direito fica na face inferolateral do lobo temporal. Ajuda a reconhecer formas e objetos como parte da via visual ventral. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right inferior temporal gyrus.obj; OBJ File ID MM268M, Representation ID BP36665, FMA ID FMA72687, English name 'Right inferior temporal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Inferior Temporal System, linhas 81-84",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Inferior Temporal System, linhas 81-84",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM268M, BP36665, FMA72687). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Papel no nível do sistema temporal inferior.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "82e8dac25470476438a41798697fc1b8|MM248M|BP36762|FMA72685",
+      "type": "structure",
+      "nameEn": "Right middle temporal gyrus",
+      "namePt": "giro temporal médio direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro temporal médio direito é uma estrutura anatômica identificada no modelo e localizada na face lateral temporal, entre os giros superior e inferior. Abrange parcelas conectadas a redes de linguagem, semântica, memória e visão; a função muda ao longo do eixo anterior-posterior. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro temporal médio direito fica na face lateral temporal, entre os giros superior e inferior. Participa de redes semânticas, linguísticas, visuais e de memória por diferentes sub-regiões. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right middle temporal gyrus.obj; OBJ File ID MM248M, Representation ID BP36762, FMA ID FMA72685, English name 'Right middle temporal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Temporal area 1 e PHT, linhas 72-75",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Temporal area 1 e PHT, linhas 72-75",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM248M, BP36762, FMA72685). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não presumir lateralização pela anatomia.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "22ff35ccc04576841b45469c9b48cef7|MM263M|BP33793|FMA72738",
+      "type": "structure",
+      "nameEn": "Right posterior parahippocampal gyrus",
+      "namePt": "giro parahipocampal posterior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro parahipocampal posterior direito é uma estrutura anatômica identificada no modelo e localizada na face medial temporal, adjacente à formação hipocampal. Conecta informação visual e espacial a circuitos de memória, contribuindo para representação de contextos e cenas; o limite macroscópico não é campo funcional único. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro parahipocampal posterior direito fica na face medial temporal, adjacente à formação hipocampal. Integra informação visuoespacial e contextual com sistemas de memória. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right posterior parahippocampal gyrus.obj; OBJ File ID MM263M, Representation ID BP33793, FMA ID FMA72738, English name 'Right posterior parahippocampal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Medial Temporal System, linhas 86-93",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Medial Temporal System, linhas 86-93",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM263M, BP33793, FMA72738). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Função regional, sem área de Brodmann exata.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "0750a238d2097b04d900d6cfd16c0dd9|MM261M|BP33996|FMA72693",
+      "type": "structure",
+      "nameEn": "Right posterior transverse temporal gyrus",
+      "namePt": "giro temporal transverso posterior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro temporal transverso posterior direito é uma estrutura anatômica identificada no modelo e localizada na face superior do temporal, dentro do sulco lateral. O complexo transversal inclui córtex auditivo primário e áreas adjacentes, mas a divisão posterior não determina isoladamente fronteira funcional. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro temporal transverso posterior direito fica na face superior do temporal, dentro do sulco lateral. Integra o complexo auditivo transversal; a peça posterior não define sozinha função exclusiva. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_CORTEX_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right posterior transverse temporal gyrus.obj; OBJ File ID MM261M, Representation ID BP33996, FMA ID FMA72693, English name 'Right posterior transverse temporal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Temporal lobe e auditory areas; giros temporais transversos",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_CORTEX_ANAT",
+          "locator": "Temporal lobe e auditory areas; giros temporais transversos",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM261M, BP33996, FMA72693). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir área auditiva ou Brodmann exata ao segmento.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "7b763124a6160cd41a53f29af7c3be5c|MM267M|BP36597|FMA72683",
+      "type": "structure",
+      "nameEn": "Right superior temporal gyrus",
+      "namePt": "giro temporal superior direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro temporal superior direito é uma estrutura anatômica identificada no modelo e localizada na margem superior temporal, inferior ao sulco lateral. Abrange córtex auditivo e associação para sons, fala e integração audiovisual; a distribuição varia ao longo do giro e entre indivíduos. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro temporal superior direito fica na margem superior temporal, inferior ao sulco lateral. Processa sons e participa de redes de fala e integração audiovisual por diferentes sub-regiões. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right superior temporal gyrus.obj; OBJ File ID MM267M, Representation ID BP36597, FMA ID FMA72683, English name 'Right superior temporal gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Lateral temporal system, linhas 42-46 e 75-80",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP",
+          "locator": "Lateral temporal system, linhas 42-46 e 75-80",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM267M, BP36597, FMA72683). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir compreensão da linguagem a todo o giro.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "76f19230e28d52b458c026d192aba1be|MM173|BP32591|FMA74884",
+      "type": "structure",
+      "nameEn": "Uncus",
+      "namePt": "unco",
+      "latinName": "",
+      "scientificDescriptionPt": "Unco é uma estrutura anatômica identificada no modelo e localizada na projeção anteromedial recurvada do giro parahipocampal. Reúne vizinhanças olfatórias, periamigdaloides e hipocampais em circuitos distintos de olfação, emoção e memória; o OBJ não especifica subcampo nem lado. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Unco fica na projeção anteromedial recurvada do giro parahipocampal. Relaciona-se a territórios olfatórios e límbicos, mas a malha não identifica subcampo funcional nem lado. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Uncus_3.obj; OBJ File ID MM173, Representation ID BP32591, FMA ID FMA74884, English name 'Uncus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP_ANAT",
+          "locator": "Seção Amygdala; unco, córtex periamigdaloide e relações olfatórias",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP_ANAT",
+          "locator": "Seção Amygdala; unco, córtex periamigdaloide e relações olfatórias",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM173, BP32591, FMA74884). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Quatro representações físicas compartilham conceito FMA e não trazem lado no cabeçalho. O conceito FMA aparece em 4 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "1df05b6f2bfff4641a9f27d05d2b32d7|MM173M|BP32591|FMA74884",
+      "type": "structure",
+      "nameEn": "Uncus",
+      "namePt": "unco",
+      "latinName": "",
+      "scientificDescriptionPt": "Unco é uma estrutura anatômica identificada no modelo e localizada na projeção anteromedial recurvada do giro parahipocampal. Reúne vizinhanças olfatórias, periamigdaloides e hipocampais em circuitos distintos de olfação, emoção e memória; o OBJ não especifica subcampo nem lado. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Unco fica na projeção anteromedial recurvada do giro parahipocampal. Relaciona-se a territórios olfatórios e límbicos, mas a malha não identifica subcampo funcional nem lado. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_TEMP_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Uncus_2.obj; OBJ File ID MM173M, Representation ID BP32591, FMA ID FMA74884, English name 'Uncus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_TEMP_ANAT",
+          "locator": "Seção Amygdala; unco, córtex periamigdaloide e relações olfatórias",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_TEMP_ANAT",
+          "locator": "Seção Amygdala; unco, córtex periamigdaloide e relações olfatórias",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM173M, BP32591, FMA74884). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Quatro representações físicas compartilham conceito FMA e não trazem lado no cabeçalho. O conceito FMA aparece em 4 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "5c8f1538e45278f4ebfa4a61720b7adf|MM171|BP35227|FMA72716",
+      "type": "structure",
+      "nameEn": "Dentate gyrus of left hippocampus",
+      "namePt": "giro denteado do hipocampo esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro denteado do hipocampo esquerdo é uma estrutura anatômica identificada no modelo e localizada como faixa crenulada trilaminar da formação hipocampal. Recebe grande parte da entrada entorrinal pela via perfurante e envia fibras musgosas ao campo CA3, participando de codificação e separação de padrões. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro denteado do hipocampo esquerdo fica como faixa crenulada trilaminar da formação hipocampal. Inicia etapas do circuito hipocampal importantes para formar memórias distintas. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_HIPPO_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Dentate gyrus of left hippocampus.obj; OBJ File ID MM171, Representation ID BP35227, FMA ID FMA72716, English name 'Dentate gyrus of left hippocampus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Dentate gyrus e microscopic structure; camadas e conexões",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Dentate gyrus e microscopic structure; camadas e conexões",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM171, BP35227, FMA72716). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Função em circuito, sem dominância lateral.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "56f70c9445023ca4e891ff23685d2ba6|MM171M|BP35118|FMA72715",
+      "type": "structure",
+      "nameEn": "Dentate gyrus of right hippocampus",
+      "namePt": "giro denteado do hipocampo direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro denteado do hipocampo direito é uma estrutura anatômica identificada no modelo e localizada como faixa crenulada trilaminar da formação hipocampal. Recebe grande parte da entrada entorrinal pela via perfurante e envia fibras musgosas ao campo CA3, participando de codificação e separação de padrões. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro denteado do hipocampo direito fica como faixa crenulada trilaminar da formação hipocampal. Inicia etapas do circuito hipocampal importantes para formar memórias distintas. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_HIPPO_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Dentate gyrus of right hippocampus.obj; OBJ File ID MM171M, Representation ID BP35118, FMA ID FMA72715, English name 'Dentate gyrus of right hippocampus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Dentate gyrus e microscopic structure; camadas e conexões",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Dentate gyrus e microscopic structure; camadas e conexões",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM171M, BP35118, FMA72715). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Função em circuito, sem dominância lateral.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "3444afbb0e49dc4408d45b0961eb0931|MM153|BP33379|FMA62488",
+      "type": "structure",
+      "nameEn": "Induseum griseum",
+      "namePt": "indúsio cinzento",
+      "latinName": "",
+      "scientificDescriptionPt": "Indúsio cinzento é uma estrutura anatômica identificada no modelo e localizada como lâmina delgada de substância cinzenta sobre o corpo caloso. É atravessado por estrias longitudinais e continua posteriormente com o giro fasciolar; constitui remanescente dorsal da formação hipocampal, sem função cognitiva isolada bem estabelecida. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Indúsio cinzento fica como lâmina delgada de substância cinzenta sobre o corpo caloso. Liga-se anatomicamente à formação hipocampal; sua função isolada em humanos permanece pouco individualizada. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_HIPPO_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Induseum griseum_1.obj; OBJ File ID MM153, Representation ID BP33379, FMA ID FMA62488, English name 'Induseum griseum'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Indusium griseum and longitudinal striae",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Indusium griseum and longitudinal striae",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM153, BP33379, FMA62488). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O OBJ escreve Induseum; a forma usual é Indusium griseum, sem lado no cabeçalho. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "1345dda35b843ec4a9075ddbdee7d4e9|MM153M|BP33379|FMA62488",
+      "type": "structure",
+      "nameEn": "Induseum griseum",
+      "namePt": "indúsio cinzento",
+      "latinName": "",
+      "scientificDescriptionPt": "Indúsio cinzento é uma estrutura anatômica identificada no modelo e localizada como lâmina delgada de substância cinzenta sobre o corpo caloso. É atravessado por estrias longitudinais e continua posteriormente com o giro fasciolar; constitui remanescente dorsal da formação hipocampal, sem função cognitiva isolada bem estabelecida. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Indúsio cinzento fica como lâmina delgada de substância cinzenta sobre o corpo caloso. Liga-se anatomicamente à formação hipocampal; sua função isolada em humanos permanece pouco individualizada. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_HIPPO_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Induseum griseum.obj; OBJ File ID MM153M, Representation ID BP33379, FMA ID FMA62488, English name 'Induseum griseum'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Indusium griseum and longitudinal striae",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Indusium griseum and longitudinal striae",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM153M, BP33379, FMA62488). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. O OBJ escreve Induseum; a forma usual é Indusium griseum, sem lado no cabeçalho. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "4e1ff3da41c90ec4d89c853b4c11b3bb|MM264|BP34767|FMA72741",
+      "type": "structure",
+      "nameEn": "Left entorhinal area",
+      "namePt": "área entorrinal esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "Área entorrinal esquerda é uma estrutura anatômica identificada no modelo e localizada na porção anteromedial do giro parahipocampal. É a principal interface entre neocórtex e formação hipocampal, enviando a via perfurante e recebendo saída hipocampal; participa de memória declarativa e representação espacial. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Área entorrinal esquerda fica na porção anteromedial do giro parahipocampal. Encaminha informação ao hipocampo e recebe seu retorno, contribuindo para memória e espaço. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_HIPPO"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left entorhinal area.obj; OBJ File ID MM264, Representation ID BP34767, FMA ID FMA72741, English name 'Left entorhinal area'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seções 5.2 e 5.6, linhas 64-95",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seções 5.2 e 5.6, linhas 64-95",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM264, BP34767, FMA72741). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir diferença funcional entre lados.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "15f73932f9e1f5a48aa22985da10ceee|MM175|BP36188|FMA72712",
+      "type": "structure",
+      "nameEn": "Left fasciolar gyrus",
+      "namePt": "giro fasciolar esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro fasciolar esquerdo é uma estrutura anatômica identificada no modelo e localizada posteriormente ao esplênio do corpo caloso. Continua o indúsio cinzento com o giro denteado; seu valor anatômico é sustentado, mas a literatura não individualiza função cognitiva exclusiva. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro fasciolar esquerdo fica posteriormente ao esplênio do corpo caloso. É um elo entre indúsio cinzento e giro denteado, sem função isolada bem estabelecida. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_HIPPO_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left fasciolar gyrus.obj; OBJ File ID MM175, Representation ID BP36188, FMA ID FMA72712, English name 'Left fasciolar gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Introdução e Indusium griseum; continuidade anatômica",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Introdução e Indusium griseum; continuidade anatômica",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM175, BP36188, FMA72712). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Duas malhas por lado compartilham conceito FMA. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "b2ec9895578d3ce4aa815b2a07b91b29|MM194|BP36188|FMA72712",
+      "type": "structure",
+      "nameEn": "Left fasciolar gyrus",
+      "namePt": "giro fasciolar esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro fasciolar esquerdo é uma estrutura anatômica identificada no modelo e localizada posteriormente ao esplênio do corpo caloso. Continua o indúsio cinzento com o giro denteado; seu valor anatômico é sustentado, mas a literatura não individualiza função cognitiva exclusiva. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro fasciolar esquerdo fica posteriormente ao esplênio do corpo caloso. É um elo entre indúsio cinzento e giro denteado, sem função isolada bem estabelecida. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_HIPPO_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left fasciolar gyrus_1.obj; OBJ File ID MM194, Representation ID BP36188, FMA ID FMA72712, English name 'Left fasciolar gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Introdução e Indusium griseum; continuidade anatômica",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Introdução e Indusium griseum; continuidade anatômica",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM194, BP36188, FMA72712). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Duas malhas por lado compartilham conceito FMA. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "c6e685456f953b14582c2a38bc045188|MM164|BP35308|FMA72714",
+      "type": "structure",
+      "nameEn": "Left hippocampus proper",
+      "namePt": "hipocampo propriamente dito esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Hipocampo propriamente dito esquerdo é uma estrutura anatômica identificada no modelo e localizada como componente trilaminar da formação hipocampal, organizado em campos CA. Recebe informação do giro denteado e córtex entorrinal e a transmite por CA1 ao subículo; sustenta aprendizagem, memória episódica e navegação com estruturas vizinhas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Hipocampo propriamente dito esquerdo fica como componente trilaminar da formação hipocampal, organizado em campos CA. Processa informação nos campos CA e a encaminha ao subículo em circuitos de memória. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_HIPPO"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left hippocampus proper.obj; OBJ File ID MM164, Representation ID BP35308, FMA ID FMA72714, English name 'Left hippocampus proper'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seção 5.6, linhas 85-95; campos CA e fluxo intrínseco",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seção 5.6, linhas 85-95; campos CA e fluxo intrínseco",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM164, BP35308, FMA72714). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Descrição bilateral, sem dominância.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "c1e6d2b6afeab324899bf2b6fe990571|MM270|BP35995|FMA72737",
+      "type": "structure",
+      "nameEn": "Left presubiculum",
+      "namePt": "pré-subículo esquerdo",
+      "latinName": "",
+      "scientificDescriptionPt": "Pré-subículo esquerdo é uma estrutura anatômica identificada no modelo e localizada medialmente ao subículo, na transição parahipocampal. Sua arquitetura perialocortical e conexões o inserem em circuitos de direção, navegação espacial e representação de cenas, sem reduzir toda a peça a única função. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Pré-subículo esquerdo fica medialmente ao subículo, na transição parahipocampal. Participa de circuitos que representam direção, espaço e cenas para navegação e memória. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_PRESUBICULUM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left presubiculum.obj; OBJ File ID MM270, Representation ID BP35995, FMA ID FMA72737, English name 'Left presubiculum'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_PRESUBICULUM",
+          "locator": "Resumo e seções sobre presubículo; arquitetura e navegação",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_PRESUBICULUM",
+          "locator": "Resumo e seções sobre presubículo; arquitetura e navegação",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM270, BP35995, FMA72737). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não extrapolar células animais para função humana exclusiva.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "6ff0d4b05b912a54d891bc24754d0046|MM264M|BP33921|FMA72740",
+      "type": "structure",
+      "nameEn": "Right entorhinal area",
+      "namePt": "área entorrinal direita",
+      "latinName": "",
+      "scientificDescriptionPt": "Área entorrinal direita é uma estrutura anatômica identificada no modelo e localizada na porção anteromedial do giro parahipocampal. É a principal interface entre neocórtex e formação hipocampal, enviando a via perfurante e recebendo saída hipocampal; participa de memória declarativa e representação espacial. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Área entorrinal direita fica na porção anteromedial do giro parahipocampal. Encaminha informação ao hipocampo e recebe seu retorno, contribuindo para memória e espaço. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_HIPPO"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right entorhinal area.obj; OBJ File ID MM264M, Representation ID BP33921, FMA ID FMA72740, English name 'Right entorhinal area'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seções 5.2 e 5.6, linhas 64-95",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seções 5.2 e 5.6, linhas 64-95",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM264M, BP33921, FMA72740). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não atribuir diferença funcional entre lados.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "beef5632314dfc64ca175ea147fac621|MM175M|BP33796|FMA72711",
+      "type": "structure",
+      "nameEn": "Right fasciolar gyrus",
+      "namePt": "giro fasciolar direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro fasciolar direito é uma estrutura anatômica identificada no modelo e localizada posteriormente ao esplênio do corpo caloso. Continua o indúsio cinzento com o giro denteado; seu valor anatômico é sustentado, mas a literatura não individualiza função cognitiva exclusiva. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro fasciolar direito fica posteriormente ao esplênio do corpo caloso. É um elo entre indúsio cinzento e giro denteado, sem função isolada bem estabelecida. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_HIPPO_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right fasciolar gyrus.obj; OBJ File ID MM175M, Representation ID BP33796, FMA ID FMA72711, English name 'Right fasciolar gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Introdução e Indusium griseum; continuidade anatômica",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Introdução e Indusium griseum; continuidade anatômica",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM175M, BP33796, FMA72711). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Duas malhas por lado compartilham conceito FMA. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "46dd5dc626c9b5c41b47c1b9c8658665|MM194M|BP33796|FMA72711",
+      "type": "structure",
+      "nameEn": "Right fasciolar gyrus",
+      "namePt": "giro fasciolar direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Giro fasciolar direito é uma estrutura anatômica identificada no modelo e localizada posteriormente ao esplênio do corpo caloso. Continua o indúsio cinzento com o giro denteado; seu valor anatômico é sustentado, mas a literatura não individualiza função cognitiva exclusiva. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Giro fasciolar direito fica posteriormente ao esplênio do corpo caloso. É um elo entre indúsio cinzento e giro denteado, sem função isolada bem estabelecida. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_HIPPO_ANAT"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right fasciolar gyrus_1.obj; OBJ File ID MM194M, Representation ID BP33796, FMA ID FMA72711, English name 'Right fasciolar gyrus'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Introdução e Indusium griseum; continuidade anatômica",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_HIPPO_ANAT",
+          "locator": "Introdução e Indusium griseum; continuidade anatômica",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM194M, BP33796, FMA72711). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Duas malhas por lado compartilham conceito FMA. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "9e8aecfb67d00b14e9a6239c4f4ccb49|MM164M|BP35175|FMA72713",
+      "type": "structure",
+      "nameEn": "Right hippocampus proper",
+      "namePt": "hipocampo propriamente dito direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Hipocampo propriamente dito direito é uma estrutura anatômica identificada no modelo e localizada como componente trilaminar da formação hipocampal, organizado em campos CA. Recebe informação do giro denteado e córtex entorrinal e a transmite por CA1 ao subículo; sustenta aprendizagem, memória episódica e navegação com estruturas vizinhas. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Hipocampo propriamente dito direito fica como componente trilaminar da formação hipocampal, organizado em campos CA. Processa informação nos campos CA e a encaminha ao subículo em circuitos de memória. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_HIPPO"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right hippocampus proper.obj; OBJ File ID MM164M, Representation ID BP35175, FMA ID FMA72713, English name 'Right hippocampus proper'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seção 5.6, linhas 85-95; campos CA e fluxo intrínseco",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seção 5.6, linhas 85-95; campos CA e fluxo intrínseco",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM164M, BP35175, FMA72713). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Descrição bilateral, sem dominância.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "5881204563e55134b83a9e3e823adcdd|MM270M|BP34413|FMA72736",
+      "type": "structure",
+      "nameEn": "Right presubiculum",
+      "namePt": "pré-subículo direito",
+      "latinName": "",
+      "scientificDescriptionPt": "Pré-subículo direito é uma estrutura anatômica identificada no modelo e localizada medialmente ao subículo, na transição parahipocampal. Sua arquitetura perialocortical e conexões o inserem em circuitos de direção, navegação espacial e representação de cenas, sem reduzir toda a peça a única função. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Pré-subículo direito fica medialmente ao subículo, na transição parahipocampal. Participa de circuitos que representam direção, espaço e cenas para navegação e memória. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_PRESUBICULUM"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right presubiculum.obj; OBJ File ID MM270M, Representation ID BP34413, FMA ID FMA72736, English name 'Right presubiculum'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_PRESUBICULUM",
+          "locator": "Resumo e seções sobre presubículo; arquitetura e navegação",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_PRESUBICULUM",
+          "locator": "Resumo e seções sobre presubículo; arquitetura e navegação",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM270M, BP34413, FMA72736). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não extrapolar células animais para função humana exclusiva.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "94c4c190d5a2d01499c0a662488f5eed|MM178|BP32820|FMA74414",
+      "type": "structure",
+      "nameEn": "Subiculum",
+      "namePt": "subículo",
+      "latinName": "",
+      "scientificDescriptionPt": "Subículo é uma estrutura anatômica identificada no modelo e localizada na transição entre hipocampo trilaminar e córtex parahipocampal. Recebe saída de CA1 e a distribui para córtex entorrinal, fórnix e outros alvos, encaminhando informação de memória e navegação. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Subículo fica na transição entre hipocampo trilaminar e córtex parahipocampal. É importante via de saída da formação hipocampal para redes de memória e navegação. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_HIPPO"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Subiculum_1.obj; OBJ File ID MM178, Representation ID BP32820, FMA ID FMA74414, English name 'Subiculum'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seção 5.6, linhas 90-95; transição e saída",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seção 5.6, linhas 90-95; transição e saída",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM178, BP32820, FMA74414). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Cabeçalho sem lado; representações mantidas separadas. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "ef20cd8406b03e840b7bc22cb792ac2f|MM178M|BP32820|FMA74414",
+      "type": "structure",
+      "nameEn": "Subiculum",
+      "namePt": "subículo",
+      "latinName": "",
+      "scientificDescriptionPt": "Subículo é uma estrutura anatômica identificada no modelo e localizada na transição entre hipocampo trilaminar e córtex parahipocampal. Recebe saída de CA1 e a distribui para córtex entorrinal, fórnix e outros alvos, encaminhando informação de memória e navegação. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Subículo fica na transição entre hipocampo trilaminar e córtex parahipocampal. É importante via de saída da formação hipocampal para redes de memória e navegação. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_UT_HIPPO"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Subiculum.obj; OBJ File ID MM178M, Representation ID BP32820, FMA ID FMA74414, English name 'Subiculum'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seção 5.6, linhas 90-95; transição e saída",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_UT_HIPPO",
+          "locator": "Seção 5.6, linhas 90-95; transição e saída",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM178M, BP32820, FMA74414). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Cabeçalho sem lado; representações mantidas separadas. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "5257e4034079f7f42a83eb9fd64c1c72|MM179|BP37128|FMA72833",
+      "type": "structure",
+      "nameEn": "Left amygdala",
+      "namePt": "amígdala esquerda",
+      "latinName": "",
+      "scientificDescriptionPt": "Amígdala esquerda é uma estrutura anatômica identificada no modelo e localizada no temporal medial, anterior ao hipocampo. É complexo de núcleos que avalia relevância afetiva, aprendizagem emocional e motivação e coordena respostas autonômicas; seus núcleos e conexões são funcionalmente diversos. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Amígdala esquerda fica no temporal medial, anterior ao hipocampo. Avalia relevância emocional, aprende associações e coordena respostas corporais por vários núcleos. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_AMYGDALA"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Left amygdala.obj; OBJ File ID MM179, Representation ID BP37128, FMA ID FMA72833, English name 'Left amygdala'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_AMYGDALA",
+          "locator": "Introduction e Structure and Function; posição, núcleos e afeto",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_AMYGDALA",
+          "locator": "Introduction e Structure and Function; posição, núcleos e afeto",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM179, BP37128, FMA72833). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não reduzir a “centro do medo” nem presumir assimetria.",
+      "verification": "source_checked"
+    },
+    {
+      "key": "b21c81db78dd1114ca5e666208508a18|MM165|BP33357|FMA62485",
+      "type": "structure",
+      "nameEn": "Periamygdaloid area",
+      "namePt": "área periamigdaloide",
+      "latinName": "",
+      "scientificDescriptionPt": "Área periamigdaloide é uma estrutura anatômica identificada no modelo e localizada na superfície parahipocampal sobre componentes corticais da amígdala. Recebe aferências olfatórias e integra o complexo corticomedial, mas sua organização é heterogênea e a terminologia varia; não há função exclusiva para toda a representação. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Área periamigdaloide fica na superfície parahipocampal sobre componentes corticais da amígdala. Recebe informação olfatória e integra circuitos corticomediais, com função isolada heterogênea. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_PERIAMYGDALOID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Periamygdaloid area_1.obj; OBJ File ID MM165, Representation ID BP33357, FMA ID FMA62485, English name 'Periamygdaloid area'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_PERIAMYGDALOID",
+          "locator": "Definição MeSH e Anatomy of Temporal Lobe, seção Amygdala",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_PERIAMYGDALOID",
+          "locator": "Definição MeSH e Anatomy of Temporal Lobe, seção Amygdala",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM165, BP33357, FMA62485). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Cabeçalho sem lado; duas malhas preservadas. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "72f5de4ce35c7a44f90263e6ee8edaa3|MM165M|BP33357|FMA62485",
+      "type": "structure",
+      "nameEn": "Periamygdaloid area",
+      "namePt": "área periamigdaloide",
+      "latinName": "",
+      "scientificDescriptionPt": "Área periamigdaloide é uma estrutura anatômica identificada no modelo e localizada na superfície parahipocampal sobre componentes corticais da amígdala. Recebe aferências olfatórias e integra o complexo corticomedial, mas sua organização é heterogênea e a terminologia varia; não há função exclusiva para toda a representação. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Área periamigdaloide fica na superfície parahipocampal sobre componentes corticais da amígdala. Recebe informação olfatória e integra circuitos corticomediais, com função isolada heterogênea. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_PERIAMYGDALOID"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Periamygdaloid area.obj; OBJ File ID MM165M, Representation ID BP33357, FMA ID FMA62485, English name 'Periamygdaloid area'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_PERIAMYGDALOID",
+          "locator": "Definição MeSH e Anatomy of Temporal Lobe, seção Amygdala",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_PERIAMYGDALOID",
+          "locator": "Definição MeSH e Anatomy of Temporal Lobe, seção Amygdala",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM165M, BP33357, FMA62485). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Cabeçalho sem lado; duas malhas preservadas. O conceito FMA aparece em 2 representações físicas deste escopo; não houve deduplicação.",
+      "verification": "limited_specificity"
+    },
+    {
+      "key": "c3851babd7f602b4e82eacca4064b266|MM179M|BP34038|FMA72832",
+      "type": "structure",
+      "nameEn": "Right amygdala",
+      "namePt": "amígdala direita",
+      "latinName": "",
+      "scientificDescriptionPt": "Amígdala direita é uma estrutura anatômica identificada no modelo e localizada no temporal medial, anterior ao hipocampo. É complexo de núcleos que avalia relevância afetiva, aprendizagem emocional e motivação e coordena respostas autonômicas; seus núcleos e conexões são funcionalmente diversos. A interpretação funcional permanece restrita às redes da região descrita, respeitando sua variabilidade anatômica.",
+      "didacticSummaryPt": "Amígdala direita fica no temporal medial, anterior ao hipocampo. Avalia relevância emocional, aprende associações e coordena respostas corporais por vários núcleos. Seu papel integra-se às demais regiões do sistema nervoso.",
+      "nomenclatureSourceIds": [
+        "CX_BP3D"
+      ],
+      "informationSourceIds": [
+        "CX_AMYGDALA"
+      ],
+      "sourceLocators": [
+        {
+          "sourceId": "CX_BP3D",
+          "locator": "Assets/Brain/Right amygdala.obj; OBJ File ID MM179M, Representation ID BP34038, FMA ID FMA72832, English name 'Right amygdala'",
+          "supports": "nomenclature"
+        },
+        {
+          "sourceId": "CX_AMYGDALA",
+          "locator": "Introduction e Structure and Function; posição, núcleos e afeto",
+          "supports": "description"
+        },
+        {
+          "sourceId": "CX_AMYGDALA",
+          "locator": "Introduction e Structure and Function; posição, núcleos e afeto",
+          "supports": "didactic"
+        }
+      ],
+      "reviewNotes": "Identidade física preservada pela representationKey; nome inglês copiado do cabeçalho OBJ (MM179M, BP34038, FMA72832). Tradução portuguesa editorial, ainda dependente de revisão acadêmica local. Não reduzir a “centro do medo” nem presumir assimetria.",
+      "verification": "source_checked"
+    }
+  ],
+  "sources": [
+    {
+      "id": "CX_BP3D",
+      "title": "BodyParts3D: 3D structure database for anatomical concepts",
+      "authors": "Mitsuhashi K, Fujieda K, Tamura T, Kawamoto S, Takagi T, Okubo K",
+      "year": 2009,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2686534/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Documenta a base BodyParts3D, rótulos FMA e segmentos 3D como representações físicas."
+    },
+    {
+      "id": "CX_GYRI_TERMS",
+      "title": "Toward a Common Terminology for the Gyri and Sulci of the Human Cerebral Cortex",
+      "authors": "ten Donkelaar HJ, Tzourio-Mazoyer N, Mai JK",
+      "year": 2018,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6252390/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Terminologia e variação de giros e sulcos, superfície orbitofrontal e lobo límbico."
+    },
+    {
+      "id": "CX_CORTEX_ANAT",
+      "title": "The Anatomy of the Cerebral Cortex",
+      "authors": "Chauhan P, Rathawa A, Jethwa K, Mehra S",
+      "year": 2021,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK575742/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Anatomia de lobos, giros e áreas motoras, sensoriais, auditivas, visuais e associativas."
+    },
+    {
+      "id": "CX_UT_ASSOC",
+      "title": "Higher Cortical Functions: Association and Executive Processing",
+      "authors": "Wright A; McGovern Medical School at UTHealth",
+      "year": 2020,
+      "url": "https://nba.uth.tmc.edu/neuroscience/m/s4/chapter09.html",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Áreas de associação e integração sensorial, percepção, linguagem, memória e planejamento."
+    },
+    {
+      "id": "CX_INSULA",
+      "title": "Insular Cortex",
+      "authors": "Kortz MW, Lillehei KO",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK570606/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Localização, giros e funções integrativas da ínsula."
+    },
+    {
+      "id": "CX_CINGULATE",
+      "title": "Neuroanatomy, Cingulate Cortex",
+      "authors": "Jumah FR, Dossani RH",
+      "year": 2022,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537077/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Trajeto, subdivisões, conexões e papéis do córtex cingulado."
+    },
+    {
+      "id": "CX_TEMP",
+      "title": "Neuroanatomy, Temporal Lobe",
+      "authors": "Patel A, Biso GMNR, Fowler JB",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK519512/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Conectividade e funções dos territórios temporais lateral, inferior e medial."
+    },
+    {
+      "id": "CX_TEMP_ANAT",
+      "title": "Anatomy of the Temporal Lobe",
+      "authors": "Kiernan JA",
+      "year": 2012,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3420617/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Relações do temporal medial, unco, amígdala e córtex periamigdaloide."
+    },
+    {
+      "id": "CX_HIPPO_ANAT",
+      "title": "The Anatomy of the Hippocampus",
+      "authors": "Chauhan P, Jethwa K, Rathawa A, Chauhan G, Mehra S",
+      "year": 2021,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK575732/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Componentes, microestrutura e conexões da formação hipocampal."
+    },
+    {
+      "id": "CX_UT_HIPPO",
+      "title": "Limbic System: Hippocampus",
+      "authors": "Department of Neurobiology and Anatomy, McGovern Medical School at UTHealth",
+      "year": 2020,
+      "url": "https://nba.uth.tmc.edu/neuroscience/s4/chapter05.html",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Formação hipocampal, córtex entorrinal e circuito intrínseco."
+    },
+    {
+      "id": "CX_PRESUBICULUM",
+      "title": "The Human Periallocortex: Layer Pattern in Presubiculum, Parasubiculum and Entorhinal Cortex. A Review",
+      "authors": "Insausti R, Muñoz-López M, Insausti AM, Artacho-Pérula E",
+      "year": 2017,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5632821/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Arquitetura humana do pré-subículo e relevância para navegação e memória."
+    },
+    {
+      "id": "CX_AMYGDALA",
+      "title": "Neuroanatomy, Amygdala",
+      "authors": "AbuHasan Q, Reddy V, Siddiqui W",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537102/",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Posição, núcleos, conexões e papéis afetivos e autonômicos da amígdala."
+    },
+    {
+      "id": "CX_PERIAMYGDALOID",
+      "title": "Periamygdaloid Cortex",
+      "authors": "National Library of Medicine, Medical Subject Headings (MeSH)",
+      "year": 2015,
+      "url": "https://www.ncbi.nlm.nih.gov/mesh/68066277",
+      "accessed": "2026-09-07",
+      "evidenceSummary": "Definição institucional do córtex periamigdaloide e sinônimos."
+    }
+  ]
+}
